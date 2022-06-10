@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_UsernamePasswordRemember me (1)</name>
+   <tag></tag>
+   <elementGuidId>f5e3e077-8e9d-450b-acb8-c62824773b7b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.o-form-fieldset-container</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='form19']/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6b15396a-d27a-462c-a7c6-6c8de4091e6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>o-form-fieldset-container</value>
+      <webElementGuid>19dd633e-cec4-404c-97a8-1242f57f8640</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-se</name>
+      <type>Main</type>
+      <value>o-form-fieldset-container</value>
+      <webElementGuid>ec50dc2f-8f27-4461-950f-b270f687a044</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Username Password Remember me</value>
+      <webElementGuid>4fbfdbbe-e873-4dfb-bb7e-f9e1b5b1a82e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form19&quot;)/div[@class=&quot;o-form-content o-form-theme clearfix&quot;]/div[@class=&quot;o-form-fieldset-container&quot;]</value>
+      <webElementGuid>7a5dddbb-6c3d-442c-9374-ad15cfd3e47e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form19']/div/div[2]</value>
+      <webElementGuid>288d8592-3e50-4f66-93db-3d5b2012225d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Iniciar Session 2'])[1]/following::div[2]</value>
+      <webElementGuid>744d5002-6e60-427e-9f75-ca5241ef4eb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]</value>
+      <webElementGuid>39150f2c-5df5-498e-90cb-2409262f4a17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Username Password Remember me' or . = 'Username Password Remember me')]</value>
+      <webElementGuid>cfcc3f78-6407-4cf8-a402-d78684a14fa6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

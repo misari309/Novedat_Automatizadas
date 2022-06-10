@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Close Case</name>
+   <tag></tag>
+   <elementGuidId>7dc3dc1b-cb36-463a-98a5-b4e0417614cf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#close-radio-span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='close-radio-span']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>cda1f9d6-4c3c-466c-a61e-2b29235e5f2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>label-text</value>
+      <webElementGuid>9c446d3a-d62f-473d-b24b-56bc7e468a29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>close-radio-span</value>
+      <webElementGuid>9479d079-1dff-4b0c-a19b-2e514bf61b73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Close Case</value>
+      <webElementGuid>2d54f0fd-2e7a-49e9-81ce-aeef6ac93318</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;close-radio-span&quot;)</value>
+      <webElementGuid>859e0274-a122-4eef-a834-752a20893117</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='close-radio-span']</value>
+      <webElementGuid>446320eb-ac1d-4465-a8a0-6900d2c042bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TDC 005268****2188 BANCOOMEVA'])[1]/following::span[1]</value>
+      <webElementGuid>216b2a39-34b1-4034-a52b-3fa73cbc5ce1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Modify'])[1]/preceding::span[1]</value>
+      <webElementGuid>e8230baa-214a-400c-b690-a894a8576d79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bloquear'])[1]/preceding::span[2]</value>
+      <webElementGuid>c112115a-4587-4341-a8ea-d06e7d53c166</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Close Case']/parent::*</value>
+      <webElementGuid>6f7f8581-f6a1-47f6-8095-f661ae5b13aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/span</value>
+      <webElementGuid>08858a33-b841-4a13-a60a-d27d2074a11d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'close-radio-span' and (text() = 'Close Case' or . = 'Close Case')]</value>
+      <webElementGuid>18c9eda8-f6f7-4faa-88f4-e17ae3b0dacf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

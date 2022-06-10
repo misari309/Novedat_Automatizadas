@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_ANALISTAREVISOR (1)</name>
+   <tag></tag>
+   <elementGuidId>32b92aa4-dcb2-4b36-8fd8-594edaa6651f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#perfilEscoger</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='perfilEscoger']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>e2c61c54-07d4-4823-95c6-889eced0f035</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>8e4d7eb5-2c05-4843-b14b-df5b4a9d7002</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>perfilEscoger</value>
+      <webElementGuid>add7d0b4-421c-4c81-ae09-83feb3c04b5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ANALISTAREVISOR</value>
+      <webElementGuid>726b8601-2af8-4be0-b68e-6840a97284a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;perfilEscoger&quot;)</value>
+      <webElementGuid>e9d0cbe0-4638-4fd0-9053-667d46079ef8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='perfilEscoger']</value>
+      <webElementGuid>a7b314ec-9090-4e9f-b740-51603463f1aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Seleccionar Perfil:'])[1]/following::select[1]</value>
+      <webElementGuid>7315e774-a03a-4412-a0c9-edef225b607b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Inicio > Bandeja de entrada'])[1]/following::select[1]</value>
+      <webElementGuid>af0a9e03-4328-4577-ba0d-959361542adc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lista Común'])[1]/preceding::select[1]</value>
+      <webElementGuid>840d5f5c-8350-464c-808c-22ac77d8fdd1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mi Lista'])[1]/preceding::select[1]</value>
+      <webElementGuid>64651961-f7dd-480e-a40c-baf9178a2f9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>1d1c3ef1-936c-4906-a18f-6245574729dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'perfilEscoger' and (text() = 'ANALISTAREVISOR' or . = 'ANALISTAREVISOR')]</value>
+      <webElementGuid>f6ac7c90-b426-4111-9add-c57a7f56d079</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

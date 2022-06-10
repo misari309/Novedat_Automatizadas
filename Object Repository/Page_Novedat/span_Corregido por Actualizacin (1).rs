@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Corregido por Actualizacin (1)</name>
+   <tag></tag>
+   <elementGuidId>a7b29229-eeca-4dee-b254-9b14d0dd3812</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='transmit-radio-span']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#transmit-radio-span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d3e913df-4899-4166-92fb-8accf92795a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>label-text</value>
+      <webElementGuid>6a076f5a-ae7e-44e3-bfc6-8d8dbb1b30f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>transmit-radio-span</value>
+      <webElementGuid>2a74b3ce-ee29-45e1-99d3-e31f149e3c99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Corregido por Actualización</value>
+      <webElementGuid>3a5afc8c-afe8-42c4-ba09-73802a02192b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;transmit-radio-span&quot;)</value>
+      <webElementGuid>ef25e4aa-c508-41fb-8195-9203d4075dfe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='transmit-radio-span']</value>
+      <webElementGuid>4bd79dae-e6f5-435d-83c5-b967e098eb42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bloquear'])[1]/following::span[1]</value>
+      <webElementGuid>177a102b-def1-41a7-90b5-e6686582d572</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ratify'])[1]/following::span[2]</value>
+      <webElementGuid>db4e0288-6e0b-4522-9188-7e053b5e16ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account Information'])[1]/preceding::span[1]</value>
+      <webElementGuid>12e9d918-6e1e-462c-89b1-1ef08597ac8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Holder Names and Surnames'])[1]/preceding::span[1]</value>
+      <webElementGuid>979aacaa-e2ac-4d5f-953d-e4b2abb4e7fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Corregido por Actualización']/parent::*</value>
+      <webElementGuid>4e6aaf80-da05-4dec-ab29-347579e4d33b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/label/span</value>
+      <webElementGuid>0cca4255-0a38-47d6-baaa-573634bdc231</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'transmit-radio-span' and (text() = 'Corregido por Actualización' or . = 'Corregido por Actualización')]</value>
+      <webElementGuid>91281d11-fa8e-4929-bf44-d67aca1ae706</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

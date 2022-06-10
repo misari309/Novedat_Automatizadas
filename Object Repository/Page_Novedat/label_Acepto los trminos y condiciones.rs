@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Acepto los trminos y condiciones</name>
+   <tag></tag>
+   <elementGuidId>d57eb961-d9b8-46a1-8795-d48e77214790</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='www.datacredito.com.co'])[1]/following::label[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label.checkConditions</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>8e15384c-a23c-4f8a-b371-8dbaf51cbc5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>checkConditions</value>
+      <webElementGuid>f03549e8-afb6-489a-9271-157630b12918</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>termConditionsEmailDispute</value>
+      <webElementGuid>66294e8b-026b-4f48-9390-746b325674a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Acepto los términos y condiciones*</value>
+      <webElementGuid>0124ce80-77bb-4b32-91a2-e3e155ccb924</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/article[@class=&quot;main-content&quot;]/app-formulation-dispute[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/section[1]/form[@class=&quot;ng-touched ng-dirty ng-valid&quot;]/section[@class=&quot;select-action typeLetterBody ng-star-inserted&quot;]/div[@class=&quot;page-card&quot;]/div[@class=&quot;acc-info&quot;]/div[@class=&quot;checkbox-container&quot;]/div[@class=&quot;checkbox&quot;]/label[@class=&quot;checkConditions&quot;]</value>
+      <webElementGuid>54486bf7-b6cd-473b-8d2f-da9223740ef1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='www.datacredito.com.co'])[1]/following::label[1]</value>
+      <webElementGuid>142e56d2-f04e-4621-b01f-a331fad2fef6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Términos y condiciones'])[1]/following::label[1]</value>
+      <webElementGuid>5058586f-5055-4f24-b0ba-a888675e5d6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Acepto los términos y condiciones']/parent::*</value>
+      <webElementGuid>ba638a79-a899-4cbe-b4ea-a4e5297f93d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/label</value>
+      <webElementGuid>ffc146b2-8ee3-45b9-adec-47a1ee49d8f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Acepto los términos y condiciones*' or . = 'Acepto los términos y condiciones*')]</value>
+      <webElementGuid>40099398-59b0-4233-a92d-8c21c40748ef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

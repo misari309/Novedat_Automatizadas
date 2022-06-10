@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Nmero de Identificacin</name>
+   <tag></tag>
+   <elementGuidId>99b92af8-3ead-493c-8867-88c621ec39de</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-accordion-child-1']/div/app-form-holder-search/form/div/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d5d5d276-5997-435f-8a48-5a84e16840c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-md-3 col-sm-4 col-12</value>
+      <webElementGuid>3c10ac56-2eb0-4dd3-afc7-bce23a51b74d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Número de Identificación*</value>
+      <webElementGuid>7d42a3de-fa2b-484c-b3ec-4173f88324a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-accordion-child-1&quot;)/div[@class=&quot;mat-expansion-panel-body&quot;]/app-form-holder-search[@class=&quot;matExpansionPanelBody&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-invalid&quot;]/div[@class=&quot;show-obligacion form-element&quot;]/div[@class=&quot;formulario-field form-element&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-3 col-sm-4 col-12&quot;]</value>
+      <webElementGuid>e2cb15c1-551f-4ed7-b43a-647c7aef24ec</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-accordion-child-1']/div/app-form-holder-search/form/div/div/div/div[2]</value>
+      <webElementGuid>4ab42274-55a0-4559-8219-e5daa740f355</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::div[1]</value>
+      <webElementGuid>e16f97ab-a514-42c1-93f8-7f75838647d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div[2]</value>
+      <webElementGuid>92bc48a5-27c7-4f2b-b03d-b044ad9b6d3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Número de Identificación*' or . = 'Número de Identificación*')]</value>
+      <webElementGuid>b60f90f7-0f48-4774-a171-e6d788edda77</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

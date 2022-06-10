@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_SeleccioneRECLAMOMODIFICACIONTIPO DO_b4f5c4 (2)</name>
+   <tag></tag>
+   <elementGuidId>6620a3a9-8c9a-48ff-9b0e-ceb707549c6c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='idFilter1Id']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#idFilter1Id</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>cae84c7f-9edd-4073-96f3-92808850233c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>1236d601-471f-47f2-b76d-d7863032be26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>idFilter1Id</value>
+      <webElementGuid>419af374-3cd8-4b38-b8c2-59ca589c71aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SeleccioneRECLAMOMODIFICACIONTIPO DOCUMENTOTIPO LEYENDAOTRAS</value>
+      <webElementGuid>d41eebc7-f589-48a5-8f88-c318517420e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;idFilter1Id&quot;)</value>
+      <webElementGuid>7f4568c8-bf16-4cda-a1b7-ac353d9d447f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='idFilter1Id']</value>
+      <webElementGuid>4a7c083f-4897-4a8c-904f-ac3d804bdfb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Consultar por'])[1]/following::select[1]</value>
+      <webElementGuid>a0bddf39-025e-4196-87fa-b1a8a2c8442e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Solicitudes'])[1]/following::select[1]</value>
+      <webElementGuid>bef85c98-e263-4f61-8f24-56c754f6a27f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ignorar huérfanos'])[1]/preceding::select[2]</value>
+      <webElementGuid>be91997e-9824-4b34-b85e-c44cd5e923f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alert Modal'])[1]/preceding::select[2]</value>
+      <webElementGuid>a8207752-1cfd-4aa3-84f3-7d0892614ef5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/select</value>
+      <webElementGuid>95726ca9-4129-4dea-8248-04a9807a19ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'idFilter1Id' and (text() = 'SeleccioneRECLAMOMODIFICACIONTIPO DOCUMENTOTIPO LEYENDAOTRAS' or . = 'SeleccioneRECLAMOMODIFICACIONTIPO DOCUMENTOTIPO LEYENDAOTRAS')]</value>
+      <webElementGuid>d41cf4b8-9bb1-4f74-a4e0-ad63aa07dc82</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Formulacin Reclamos Operador</name>
+   <tag></tag>
+   <elementGuidId>534c4fb0-a9df-4268-b7a4-5436bcc2cb8e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='FormOper']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#FormOper</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>0ccf00f6-c2f1-43d4-b2b8-3ac277bcceb8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mi-lista ng-star-inserted</value>
+      <webElementGuid>9ec93d38-4704-40f0-af93-470ebb9bcd5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>FormOper</value>
+      <webElementGuid>d176ee4c-5cbd-4b02-9fb8-3cb79481c0c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Formulación Reclamos Operador</value>
+      <webElementGuid>bf6cd8fd-3688-4ae0-a1e2-ab2af37fd695</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;FormOper&quot;)</value>
+      <webElementGuid>ce304405-e90f-4a0e-b198-f4980b5698be</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//li[@id='FormOper']</value>
+      <webElementGuid>909bf737-d261-4de7-8b87-7c65bbba9949</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Formulación Reclamos Entidad'])[1]/following::li[1]</value>
+      <webElementGuid>33c276c0-c0a5-4814-a3a0-da54ccccce49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Inicio > Formulación Reclamos Entidad'])[1]/following::li[2]</value>
+      <webElementGuid>404375b3-244b-47d7-ad26-8f8636bd74da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Formulación Reclamos Operador']/parent::*</value>
+      <webElementGuid>224be4e1-cea6-4cfe-a36e-219abb263c9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[2]/ul/li[2]</value>
+      <webElementGuid>8022a4a1-1877-457b-a2ea-43f4b58cb068</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[@id = 'FormOper' and (text() = 'Formulación Reclamos Operador' or . = 'Formulación Reclamos Operador')]</value>
+      <webElementGuid>fd94a96c-1fbd-4875-934e-ba55a5bea52b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

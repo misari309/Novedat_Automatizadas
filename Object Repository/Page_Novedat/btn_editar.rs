@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_editar</name>
+   <tag></tag>
+   <elementGuidId>002a6ae0-ed9b-4186-b04d-510e876144d4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/app-root/article/app-formulation-dispute/div[1]/section/form/section[4]/mat-accordion/mat-expansion-panel/div/div/div/div/div[2]/div/input</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/app-root/article/app-formulation-dispute/div[1]/section/form/section[4]/mat-accordion/mat-expansion-panel/div/div/div/div/div[2]/div/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/app-root/article/app-formulation-dispute/div[1]/section/form/section[4]/mat-accordion/mat-expansion-panel/div/div/div/div/div[2]/div/input</value>
+      <webElementGuid>c23509b2-afb8-47ac-933b-3e94b33902fe</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

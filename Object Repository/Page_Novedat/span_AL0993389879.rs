@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_AL0993389879</name>
+   <tag></tag>
+   <elementGuidId>037b5ea2-e8eb-4300-a10b-92a5783c076a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h6 > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Resultado de la Modificación:'])[1]/following::span[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a4d08c7f-4e07-4f4b-8a5f-7711519339a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AL0993389879</value>
+      <webElementGuid>cb3c92ec-1429-45a1-87ba-5dfbd3ecc553</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/article[@class=&quot;main-content&quot;]/app-answer-modification-detail-holder[@class=&quot;ng-star-inserted&quot;]/section[@class=&quot;obligacion-info acc-info typeLetterBody&quot;]/div[@class=&quot;page-card&quot;]/div[@class=&quot;success-page&quot;]/div[@class=&quot;success-txt&quot;]/h6[1]/span[1]</value>
+      <webElementGuid>e7870970-154b-48ff-847d-322aed836faf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Resultado de la Modificación:'])[1]/following::span[1]</value>
+      <webElementGuid>f0d7f454-4d07-4a1c-abf2-7ba2f6365310</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nombres y Apellidos del Titular'])[1]/preceding::span[1]</value>
+      <webElementGuid>680ffcd2-5b5d-4865-b964-321aaf51584b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipo de Identificación'])[1]/preceding::span[1]</value>
+      <webElementGuid>4ca0f0fa-1534-42c0-ac38-cb0859b9d34c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='AL0993389879']/parent::*</value>
+      <webElementGuid>aa099874-17c5-4ea6-a8fc-65f3bb8b21dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h6/span</value>
+      <webElementGuid>dd7c12c0-6bee-40b0-8e24-9a35096afcb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'AL0993389879' or . = 'AL0993389879')]</value>
+      <webElementGuid>d238eb0d-35bd-4a67-b88f-889c5437e50b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

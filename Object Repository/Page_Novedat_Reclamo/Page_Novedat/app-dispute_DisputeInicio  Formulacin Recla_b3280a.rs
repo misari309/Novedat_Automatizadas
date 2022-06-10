@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>app-dispute_DisputeInicio  Formulacin Recla_b3280a</name>
+   <tag></tag>
+   <elementGuidId>59b106e1-6720-4966-bee0-9e09e697ab5a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='EXPERIAN COLOMBIA S.A.'])[1]/following::app-dispute[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>app-dispute.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>app-dispute</value>
+      <webElementGuid>8565600d-e7c9-4a69-bcf6-79e6da615dde</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-star-inserted</value>
+      <webElementGuid>cd630711-bb96-4299-a23d-520bd3bf9f69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>DisputeInicio > Formulación Reclamos EntidadFormulación Reclamos EntidadFormulación Reclamos OperadorAccounts Per Holder Inquiry Form (Field Marked As ' *' is mandatory) Contraer ID Type * SelectCC - Cédula de Ciudadanía y NUIPNIT - Número de Identificación TributariaNIT EXT. - Persona Jurídica del ExtranjeroC EXT. - Cédula de ExtranjeríaPasaporte - PasaporteCarnet Diplomático - Carnet DiplomáticoTarjeta de Identidad - Tarjeta de IdentidadDocumento Nacional de Identidad - Documento Nacional de IdentidadPEP - Permiso Especial de PermanenciaID Number*Account NumberJustification/Reason*SelectActualizarReclamo ante la FuenteReclamo ante Ente de ControlReclamo escalado por el OperadorAlert ModelError ModalError ModalSendResult×When you choose an obligation youis able to formulate disputes</value>
+      <webElementGuid>f9d57f71-d34c-4691-9965-cb7ecdd576fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/article[@class=&quot;main-content&quot;]/app-dispute[@class=&quot;ng-star-inserted&quot;]</value>
+      <webElementGuid>112f334d-2b22-4197-98f5-9bfb6cc56354</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EXPERIAN COLOMBIA S.A.'])[1]/following::app-dispute[1]</value>
+      <webElementGuid>1ddf6a92-a265-4cbb-a9fc-d9e6b4b89b52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(Analista)'])[1]/following::app-dispute[1]</value>
+      <webElementGuid>d8ae0f52-7d0d-431c-bdf7-13bdb6d41ab4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-dispute</value>
+      <webElementGuid>20353355-9d7b-4c79-96eb-4091f906cdb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//app-dispute[(text() = concat(&quot;DisputeInicio > Formulación Reclamos EntidadFormulación Reclamos EntidadFormulación Reclamos OperadorAccounts Per Holder Inquiry Form (Field Marked As &quot; , &quot;'&quot; , &quot; *&quot; , &quot;'&quot; , &quot; is mandatory) Contraer ID Type * SelectCC - Cédula de Ciudadanía y NUIPNIT - Número de Identificación TributariaNIT EXT. - Persona Jurídica del ExtranjeroC EXT. - Cédula de ExtranjeríaPasaporte - PasaporteCarnet Diplomático - Carnet DiplomáticoTarjeta de Identidad - Tarjeta de IdentidadDocumento Nacional de Identidad - Documento Nacional de IdentidadPEP - Permiso Especial de PermanenciaID Number*Account NumberJustification/Reason*SelectActualizarReclamo ante la FuenteReclamo ante Ente de ControlReclamo escalado por el OperadorAlert ModelError ModalError ModalSendResult×When you choose an obligation youis able to formulate disputes&quot;) or . = concat(&quot;DisputeInicio > Formulación Reclamos EntidadFormulación Reclamos EntidadFormulación Reclamos OperadorAccounts Per Holder Inquiry Form (Field Marked As &quot; , &quot;'&quot; , &quot; *&quot; , &quot;'&quot; , &quot; is mandatory) Contraer ID Type * SelectCC - Cédula de Ciudadanía y NUIPNIT - Número de Identificación TributariaNIT EXT. - Persona Jurídica del ExtranjeroC EXT. - Cédula de ExtranjeríaPasaporte - PasaporteCarnet Diplomático - Carnet DiplomáticoTarjeta de Identidad - Tarjeta de IdentidadDocumento Nacional de Identidad - Documento Nacional de IdentidadPEP - Permiso Especial de PermanenciaID Number*Account NumberJustification/Reason*SelectActualizarReclamo ante la FuenteReclamo ante Ente de ControlReclamo escalado por el OperadorAlert ModelError ModalError ModalSendResult×When you choose an obligation youis able to formulate disputes&quot;))]</value>
+      <webElementGuid>22f1b9e8-3a25-4187-970c-a2b07b9e0dbf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
