@@ -22,6 +22,7 @@ String screenshot
 TestData accounts = findTestData('Data Files/Accounts_modificacion')
 
 for (int i = 1; i <= 9; i++) {
+	
     nScreenshot = 0
     String personIdNumber = accounts.getValue('personIdNumber', i)
     String accountNumber = accounts.getValue('accountNumber', i)
@@ -146,11 +147,17 @@ for (int i = 1; i <= 9; i++) {
 		nScreenshot++
 		//-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 		
-		println(personIdNumber + cartera + " funciona" )
-			
+		println("----------------------------------------------------------------------------")
+		println("personIdNumber: " + personIdNumber + " cartera: " + cartera + " funciona.")
+		println("----------------------------------------------------------------------------")
+		
 	}catch(def err) {
+		
+		println("----------------------------------------------------------------------------")
 		println(err)
-		println(personIdNumber + cartera + " no funciona" )
+		println("personIdNumber: " + personIdNumber + " cartera: " + cartera + " no funciona.")
+		println("----------------------------------------------------------------------------")
+		
 	}
     
 }

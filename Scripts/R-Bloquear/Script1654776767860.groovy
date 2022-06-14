@@ -21,7 +21,7 @@ int nScreenshot = 0
 String screenshot
 TestData accounts = findTestData('Data Files/Accounts_reclamos')
 
-for (int i = 7; i <= 9; i++) {
+for (int i = 1; i <= 9; i++) {
 	
     nScreenshot = 0
     String personIdNumber = accounts.getValue('personIdNumber', i)

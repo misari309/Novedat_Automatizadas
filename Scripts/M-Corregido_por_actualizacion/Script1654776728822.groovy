@@ -22,6 +22,7 @@ String screenshot
 TestData accounts = findTestData('Data Files/Accounts_modificacion')
 
 for (int i = 1; i <= 9; i++) {
+	
     nScreenshot = 0
     String personIdNumber = accounts.getValue('personIdNumber', i)
     String accountNumber = accounts.getValue('accountNumber', i)
@@ -29,176 +30,186 @@ for (int i = 1; i <= 9; i++) {
     String caseNumber = ''
 
 	try {
+		
 		WebUI.openBrowser('')
 		
-			WebUI.navigateToUrl('https://dev-login.datacredito.com.co/login/login.htm')
+		WebUI.navigateToUrl('https://dev-login.datacredito.com.co/login/login.htm')
+	
+		WebUI.setText(findTestObject('Object Repository/Page_Experian LATAMB - Preview - Sign In/input_Username_username'), '1-80168185@dev.datacredito.com.co')
+	
+		WebUI.setEncryptedText(findTestObject('Object Repository/Page_Experian LATAMB - Preview - Sign In/input_Password_password'), 'OzQGslQmBm+Et1xdB1NeKw==')
+	
+		WebUI.maximizeWindow()
+	
+		//Screenshot ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+		screenshot = ((('C:\\Users\\camil\\Katalon Studio\\Novedat\\Responses\\' + cartera + '\\Modificacion\\Corregido_por_actualizacion\\') + nScreenshot) + '.png')
+		WebUI.takeScreenshot(screenshot)
+		nScreenshot++
+		//-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 		
-			WebUI.setText(findTestObject('Object Repository/Page_Experian LATAMB - Preview - Sign In/input_Username_username'), '1-80168185@dev.datacredito.com.co')
+		WebUI.click(findTestObject('Object Repository/Page_Experian LATAMB - Preview - Sign In/input_Remember me_okta-signin-submit'))
+	
+		WebUI.delay(5)
+	
+		WebUI.executeJavaScript('window.open()', [])
+	
+		WebUI.switchToWindowIndex(1)
+	
+		WebUI.navigateToUrl('https://dev-novedat.datacredito.com.co/?entidad=900422614')
+	
+		//Screenshot ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+		screenshot = ((('C:\\Users\\camil\\Katalon Studio\\Novedat\\Responses\\' + cartera + '\\Modificacion\\Corregido_por_actualizacion\\') + nScreenshot) + '.png')
+		WebUI.takeScreenshot(screenshot)
+		nScreenshot++
+		//-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 		
-			WebUI.setEncryptedText(findTestObject('Object Repository/Page_Experian LATAMB - Preview - Sign In/input_Password_password'), 'OzQGslQmBm+Et1xdB1NeKw==')
+		WebUI.click(findTestObject('Object Repository/Page_Novedat/li_Men'))
+	
+		//Screenshot ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+		screenshot = ((('C:\\Users\\camil\\Katalon Studio\\Novedat\\Responses\\' + cartera + '\\Modificacion\\Corregido_por_actualizacion\\') + nScreenshot) + '.png')
+		WebUI.takeScreenshot(screenshot)
+		nScreenshot++
+		//-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 		
-			WebUI.maximizeWindow()
+		WebUI.click(findTestObject('Object Repository/Page_Novedat/li_Modificacin'))
+	
+		WebUI.setText(findTestObject('Object Repository/Page_Novedat/input__idNumber'), personIdNumber)
+	
+		WebUI.setText(findTestObject('Object Repository/Page_Novedat/input_Nmero de Obligacin_obligationNumber'), accountNumber)
+	
+		WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Novedat/select_SeleccioneActualizacin en lneaManten_76b44e'),'1', true)
+	
+		//Screenshot ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+		screenshot = ((('C:\\Users\\camil\\Katalon Studio\\Novedat\\Responses\\' + cartera + '\\Modificacion\\Corregido_por_actualizacion\\') + nScreenshot) + '.png')
+		WebUI.takeScreenshot(screenshot)
+		nScreenshot++
+		//-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 		
-			//Screenshot ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-			screenshot = ((('C:\\Users\\camil\\Katalon Studio\\Novedat\\Responses\\' + cartera + '\\Modificacion\\Corregido_por_actualizacion\\') + nScreenshot) + '.png')
-			WebUI.takeScreenshot(screenshot)
-			nScreenshot++
-			//-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-			
-			WebUI.click(findTestObject('Object Repository/Page_Experian LATAMB - Preview - Sign In/input_Remember me_okta-signin-submit'))
+		WebUI.click(findTestObject('Object Repository/Page_Novedat/button_Enviar'))
 		
-			WebUI.delay(5)
+		WebUI.scrollToElement(findTestObject('Object Repository/Page_Novedat/div_COC 450633611111111400 PROMODESCUENTO S'), 5)
+	
+		//Screenshot ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+		screenshot = ((('C:\\Users\\camil\\Katalon Studio\\Novedat\\Responses\\' + cartera + '\\Modificacion\\Corregido_por_actualizacion\\') + nScreenshot) + '.png')
+		WebUI.takeScreenshot(screenshot)
+		nScreenshot++
+		//-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 		
-			WebUI.executeJavaScript('window.open()', [])
+		WebUI.click(findTestObject('Object Repository/Page_Novedat/div_COC 450633611111111400 PROMODESCUENTO S'))
 		
-			WebUI.switchToWindowIndex(1)
+		WebUI.click(findTestObject('Object Repository/Page_Novedat/btn_aceptar'))
 		
-			WebUI.navigateToUrl('https://dev-novedat.datacredito.com.co/?entidad=900422614')
+		//Screenshot ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+		screenshot = ((('C:\\Users\\camil\\Katalon Studio\\Novedat\\Responses\\' + cartera + '\\Modificacion\\Corregido_por_actualizacion\\') + nScreenshot) + '.png')
+		WebUI.takeScreenshot(screenshot)
+		nScreenshot++
+		//-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 		
-			//Screenshot ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-			screenshot = ((('C:\\Users\\camil\\Katalon Studio\\Novedat\\Responses\\' + cartera + '\\Modificacion\\Corregido_por_actualizacion\\') + nScreenshot) + '.png')
-			WebUI.takeScreenshot(screenshot)
-			nScreenshot++
-			//-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-			
-			WebUI.click(findTestObject('Object Repository/Page_Novedat/li_Men'))
+		WebUI.click(findTestObject('Object Repository/Page_Novedat/span_Corregido por Actualizacin'))
 		
-			//Screenshot ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-			screenshot = ((('C:\\Users\\camil\\Katalon Studio\\Novedat\\Responses\\' + cartera + '\\Modificacion\\Corregido_por_actualizacion\\') + nScreenshot) + '.png')
-			WebUI.takeScreenshot(screenshot)
-			nScreenshot++
-			//-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-			
-			WebUI.click(findTestObject('Object Repository/Page_Novedat/li_Modificacin'))
+		WebUI.scrollToElement(findTestObject('Object Repository/Page_Novedat/input_Alert Model_continuar'), 5)
 		
-			WebUI.setText(findTestObject('Object Repository/Page_Novedat/input__idNumber'), personIdNumber)
+		//Screenshot ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+		screenshot = ((('C:\\Users\\camil\\Katalon Studio\\Novedat\\Responses\\' + cartera + '\\Modificacion\\Corregido_por_actualizacion\\') + nScreenshot) + '.png')
+		WebUI.takeScreenshot(screenshot)
+		nScreenshot++
+		//-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 		
-			WebUI.setText(findTestObject('Object Repository/Page_Novedat/input_Nmero de Obligacin_obligationNumber'), accountNumber)
+		WebUI.click(findTestObject('Object Repository/Page_Novedat/input_Alert Model_continuar'))
 		
-			WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Novedat/select_SeleccioneActualizacin en lneaManten_76b44e'),'1', true)
+		//Screenshot ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+		screenshot = ((('C:\\Users\\camil\\Katalon Studio\\Novedat\\Responses\\' + cartera + '\\Modificacion\\Corregido_por_actualizacion\\') + nScreenshot) + '.png')
+		WebUI.takeScreenshot(screenshot)
+		nScreenshot++
+		//-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 		
-			//Screenshot ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-			screenshot = ((('C:\\Users\\camil\\Katalon Studio\\Novedat\\Responses\\' + cartera + '\\Modificacion\\Corregido_por_actualizacion\\') + nScreenshot) + '.png')
-			WebUI.takeScreenshot(screenshot)
-			nScreenshot++
-			//-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-			
-			WebUI.click(findTestObject('Object Repository/Page_Novedat/button_Enviar'))
-			
-			WebUI.scrollToElement(findTestObject('Object Repository/Page_Novedat/div_COC 450633611111111400 PROMODESCUENTO S'), 5)
+		WebUI.delay(2)
 		
-			//Screenshot ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-			screenshot = ((('C:\\Users\\camil\\Katalon Studio\\Novedat\\Responses\\' + cartera + '\\Modificacion\\Corregido_por_actualizacion\\') + nScreenshot) + '.png')
-			WebUI.takeScreenshot(screenshot)
-			nScreenshot++
-			//-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+		WebUI.click(findTestObject('Object Repository/Page_Novedat/input_Proceed  Without Changes_accept-transmit'))
+		
+		WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Novedat/select_Select  34-REGISTRO YA ACTUALIZADO  _06b062'), '34', true)
+		
+		WebUI.scrollToElement(findTestObject('Object Repository/Page_Novedat/input_ObservationComment_continuar'), 5)
+		
+		//Screenshot ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+		screenshot = ((('C:\\Users\\camil\\Katalon Studio\\Novedat\\Responses\\' + cartera + '\\Modificacion\\Corregido_por_actualizacion\\') + nScreenshot) + '.png')
+		WebUI.takeScreenshot(screenshot)
+		nScreenshot++
+		//-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+		
+		WebUI.click(findTestObject('Object Repository/Page_Novedat/input_ObservationComment_continuar'))
+		
+		//Screenshot ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+		screenshot = ((('C:\\Users\\camil\\Katalon Studio\\Novedat\\Responses\\' + cartera + '\\Modificacion\\Corregido_por_actualizacion\\') + nScreenshot) + '.png')
+		WebUI.takeScreenshot(screenshot)
+		nScreenshot++
+		//-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+		
+		caseNumber = WebUI.getText(findTestObject('Object Repository/Page_Novedat/span_AL0993389796'))
+		
+		WebUI.click(findTestObject('Object Repository/Page_Novedat/input_Vector Comportamiento_goMyList'))
+		
+		WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Novedat/select_ANALISTAREVISOR'), 'REVIEWER', true)
+		
+		WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Novedat/select_SeleccioneRECLAMOMODIFICACIONTIPO DO_b4f5c4'), '2', true)
+		
+		WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Novedat/select_SeleccioneModificacinCorregido por A_b21c35'), '5', true)
+		
+		WebUI.setText(findTestObject('Object Repository/Page_Novedat/input_Consultar por_idFilter3'), caseNumber)
+		
+		//Screenshot -----------------------------------------------------------------------------------------------------------------------------------------------------------------
+		screenshot = ((('C:\\Users\\camil\\Katalon Studio\\Novedat\\Responses\\' + cartera + '\\Modificacion\\Corregido_por_actualizacion\\') + nScreenshot) + '.png')
+		WebUI.takeScreenshot(screenshot)
+		nScreenshot++
+		//-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+		
+		WebUI.click(findTestObject('Object Repository/Page_Novedat/input_Consultar por_btn btn-primary ml-1'))
+		
+		WebUI.click(findTestObject('Object Repository/Page_Novedat/span_AL0993389796_1'))
+		
+		WebUI.click(findTestObject('Object Repository/Page_Novedat/input_Fecha de anlisis_btn btn-primary pull-right'))
+		
+		WebUI.click(findTestObject('Object Repository/Page_Novedat/input_Accin Aprobar_accept-motivo-aprobacion'))
+		
+		WebUI.click(findTestObject('Object Repository/Page_Novedat/input_Vector Comportamiento_goMyList'))
+		
+		WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Novedat/select_ANALISTAREVISOR'), 'ANALYST', true)
+		
+		WebUI.click(findTestObject('Object Repository/Page_Novedat/li_Modificacin'))
+		
+		WebUI.setText(findTestObject('Object Repository/Page_Novedat/input__idNumber'), personIdNumber)
+		
+		WebUI.setText(findTestObject('Object Repository/Page_Novedat/input_Nmero de Obligacin_obligationNumber'), accountNumber)
+		
+		WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Novedat/select_SeleccioneActualizacin en lneaManten_76b44e'), '1', true)
+		
+		//Screenshot ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+		screenshot = ((('C:\\Users\\camil\\Katalon Studio\\Novedat\\Responses\\' + cartera + '\\Modificacion\\Corregido_por_actualizacion\\') + nScreenshot) + '.png')
+		WebUI.takeScreenshot(screenshot)
+		nScreenshot++
+		//-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+		
+		WebUI.click(findTestObject('Object Repository/Page_Novedat/button_Enviar'))
+		
+		WebUI.scrollToElement(findTestObject('Object Repository/Page_Novedat/div_COC 450633611111111400 PROMODESCUENTO S'), 5)
+		
+		//Screenshot ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+		screenshot = ((('C:\\Users\\camil\\Katalon Studio\\Novedat\\Responses\\' + cartera + '\\Modificacion\\Corregido_por_actualizacion\\') + nScreenshot) + '.png')
+		WebUI.takeScreenshot(screenshot)
+		nScreenshot++
+		//-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 			
-			WebUI.click(findTestObject('Object Repository/Page_Novedat/div_COC 450633611111111400 PROMODESCUENTO S'))
-			
-			WebUI.click(findTestObject('Object Repository/Page_Novedat/btn_aceptar'))
-			
-			//Screenshot ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-			screenshot = ((('C:\\Users\\camil\\Katalon Studio\\Novedat\\Responses\\' + cartera + '\\Modificacion\\Corregido_por_actualizacion\\') + nScreenshot) + '.png')
-			WebUI.takeScreenshot(screenshot)
-			nScreenshot++
-			//-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-			
-			WebUI.click(findTestObject('Object Repository/Page_Novedat/span_Corregido por Actualizacin'))
-			
-			WebUI.scrollToElement(findTestObject('Object Repository/Page_Novedat/input_Alert Model_continuar'), 5)
-			
-			//Screenshot ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-			screenshot = ((('C:\\Users\\camil\\Katalon Studio\\Novedat\\Responses\\' + cartera + '\\Modificacion\\Corregido_por_actualizacion\\') + nScreenshot) + '.png')
-			WebUI.takeScreenshot(screenshot)
-			nScreenshot++
-			//-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-			
-			WebUI.click(findTestObject('Object Repository/Page_Novedat/input_Alert Model_continuar'))
-			
-			//Screenshot ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-			screenshot = ((('C:\\Users\\camil\\Katalon Studio\\Novedat\\Responses\\' + cartera + '\\Modificacion\\Corregido_por_actualizacion\\') + nScreenshot) + '.png')
-			WebUI.takeScreenshot(screenshot)
-			nScreenshot++
-			//-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-			
-			WebUI.delay(2)
-			
-			WebUI.click(findTestObject('Object Repository/Page_Novedat/input_Proceed  Without Changes_accept-transmit'))
-			
-			WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Novedat/select_Select  34-REGISTRO YA ACTUALIZADO  _06b062'), '34', true)
-			
-			WebUI.scrollToElement(findTestObject('Object Repository/Page_Novedat/input_ObservationComment_continuar'), 5)
-			
-			//Screenshot ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-			screenshot = ((('C:\\Users\\camil\\Katalon Studio\\Novedat\\Responses\\' + cartera + '\\Modificacion\\Corregido_por_actualizacion\\') + nScreenshot) + '.png')
-			WebUI.takeScreenshot(screenshot)
-			nScreenshot++
-			//-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-			
-			WebUI.click(findTestObject('Object Repository/Page_Novedat/input_ObservationComment_continuar'))
-			
-			//Screenshot ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-			screenshot = ((('C:\\Users\\camil\\Katalon Studio\\Novedat\\Responses\\' + cartera + '\\Modificacion\\Corregido_por_actualizacion\\') + nScreenshot) + '.png')
-			WebUI.takeScreenshot(screenshot)
-			nScreenshot++
-			//-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-			
-			caseNumber = WebUI.getText(findTestObject('Object Repository/Page_Novedat/span_AL0993389796'))
-			
-			WebUI.click(findTestObject('Object Repository/Page_Novedat/input_Vector Comportamiento_goMyList'))
-			
-			WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Novedat/select_ANALISTAREVISOR'), 'REVIEWER', true)
-			
-			WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Novedat/select_SeleccioneRECLAMOMODIFICACIONTIPO DO_b4f5c4'), '2', true)
-			
-			WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Novedat/select_SeleccioneModificacinCorregido por A_b21c35'), '5', true)
-			
-			WebUI.setText(findTestObject('Object Repository/Page_Novedat/input_Consultar por_idFilter3'), caseNumber)
-			
-			//Screenshot -----------------------------------------------------------------------------------------------------------------------------------------------------------------
-			screenshot = ((('C:\\Users\\camil\\Katalon Studio\\Novedat\\Responses\\' + cartera + '\\Modificacion\\Corregido_por_actualizacion\\') + nScreenshot) + '.png')
-			WebUI.takeScreenshot(screenshot)
-			nScreenshot++
-			//-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-			
-			WebUI.click(findTestObject('Object Repository/Page_Novedat/input_Consultar por_btn btn-primary ml-1'))
-			
-			WebUI.click(findTestObject('Object Repository/Page_Novedat/span_AL0993389796_1'))
-			
-			WebUI.click(findTestObject('Object Repository/Page_Novedat/input_Fecha de anlisis_btn btn-primary pull-right'))
-			
-			WebUI.click(findTestObject('Object Repository/Page_Novedat/input_Accin Aprobar_accept-motivo-aprobacion'))
-			
-			WebUI.click(findTestObject('Object Repository/Page_Novedat/input_Vector Comportamiento_goMyList'))
-			
-			WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Novedat/select_ANALISTAREVISOR'), 'ANALYST', true)
-			
-			WebUI.click(findTestObject('Object Repository/Page_Novedat/li_Modificacin'))
-			
-			WebUI.setText(findTestObject('Object Repository/Page_Novedat/input__idNumber'), personIdNumber)
-			
-			WebUI.setText(findTestObject('Object Repository/Page_Novedat/input_Nmero de Obligacin_obligationNumber'), accountNumber)
-			
-			WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Novedat/select_SeleccioneActualizacin en lneaManten_76b44e'), '1', true)
-			
-			//Screenshot ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-			screenshot = ((('C:\\Users\\camil\\Katalon Studio\\Novedat\\Responses\\' + cartera + '\\Modificacion\\Corregido_por_actualizacion\\') + nScreenshot) + '.png')
-			WebUI.takeScreenshot(screenshot)
-			nScreenshot++
-			//-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-			
-			WebUI.click(findTestObject('Object Repository/Page_Novedat/button_Enviar'))
-			
-			WebUI.scrollToElement(findTestObject('Object Repository/Page_Novedat/div_COC 450633611111111400 PROMODESCUENTO S'), 5)
-			
-			//Screenshot ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-			screenshot = ((('C:\\Users\\camil\\Katalon Studio\\Novedat\\Responses\\' + cartera + '\\Modificacion\\Corregido_por_actualizacion\\') + nScreenshot) + '.png')
-			WebUI.takeScreenshot(screenshot)
-			nScreenshot++
-			//-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-			
+		println("----------------------------------------------------------------------------")
+		println("personIdNumber: " + personIdNumber + " cartera: " + cartera + " funciona.")
+		println("----------------------------------------------------------------------------")
+		
 	}catch(def err) {
+		
+		println("----------------------------------------------------------------------------")
 		println(err)
+		println("personIdNumber: " + personIdNumber + " cartera: " + cartera + " no funciona.")
+		println("----------------------------------------------------------------------------")
+		
 	}
 	
     

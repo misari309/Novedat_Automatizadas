@@ -31,10 +31,6 @@ for (int i = 1; i <= 9 ; i++) {
     String cartera = accounts.getValue('cartera', i)
     String caseNumber = ''
 	
-	//personIdNumber = GlobalVariable.personIdNumber
-	//accountNumber = GlobalVariable.accountNumber
-	//cartera = GlobalVariable.cartera
-	
 	try {
 		
 		WebUI.openBrowser('')
@@ -257,18 +253,19 @@ for (int i = 1; i <= 9 ; i++) {
 		nScreenshot++
 		//-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 		
-		println("personIdNumber: " + personIdNumber + " cartera: " + cartera + " SI funciono.")
+		println("----------------------------------------------------------------------------")
+		println("personIdNumber: " + personIdNumber + " cartera: " + cartera + " funciona.")
+		println("----------------------------------------------------------------------------")
 		
 	}catch(def err) {
 		
-		println("--------------------------------------------------------------------------------------------")
+		println("----------------------------------------------------------------------------")
 		println(err)
-		println("personIdNumber: " + personIdNumber + " cartera: " + cartera + " NO funciono.")
+		println("personIdNumber: " + personIdNumber + " cartera: " + cartera + " no funciona.")
+		println("----------------------------------------------------------------------------")
 		
 	}
-
-	
-	    
+    
 }
 	
 	
