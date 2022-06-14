@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Iniciar Session 2UsernamePasswordRemember me</name>
+   <tag></tag>
+   <elementGuidId>211d3886-afd1-4b98-a226-e87525fc3c8a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.o-form-content.o-form-theme.clearfix</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='form19']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>79d0220b-0733-4316-a9b8-59830ee4d32c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-se</name>
+      <type>Main</type>
+      <value>o-form-content</value>
+      <webElementGuid>f9ce5242-3c87-4066-b491-5838677a838f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>o-form-content o-form-theme clearfix</value>
+      <webElementGuid>cf640905-ba52-4aca-8349-763a2392c14a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Iniciar Session 2Username Password Remember me</value>
+      <webElementGuid>cb7a7ed6-7234-4446-a45b-8b940ff4b24c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form19&quot;)/div[@class=&quot;o-form-content o-form-theme clearfix&quot;]</value>
+      <webElementGuid>a069ebbe-f1d7-420b-97ce-cfe6ddaff8a1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form19']/div</value>
+      <webElementGuid>8945ab10-61a7-47cf-b115-cb7599142fb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div</value>
+      <webElementGuid>57c18e73-67fc-4e2e-9d9c-9225286c77c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Iniciar Session 2Username Password Remember me' or . = 'Iniciar Session 2Username Password Remember me')]</value>
+      <webElementGuid>2b770aa1-88cc-4e44-adfd-a0a69779ab47</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

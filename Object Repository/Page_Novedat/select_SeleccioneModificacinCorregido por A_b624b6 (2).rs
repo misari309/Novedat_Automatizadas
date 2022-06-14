@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_SeleccioneModificacinCorregido por A_b624b6 (2)</name>
+   <tag></tag>
+   <elementGuidId>3a5d32a1-2c18-4e7c-99a9-df3fccdabf4a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#idFilter2Id</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='idFilter2Id']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>1b71a0bf-e044-4efe-b55c-c28bd35485ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control ng-untouched ng-pristine ng-star-inserted ng-valid</value>
+      <webElementGuid>adf3cdae-d21b-47a8-9489-52386109df6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>idFilter2Id</value>
+      <webElementGuid>85e1a14e-7758-4e1f-9975-891d1a321cf4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SeleccioneModificaciónCorregido por ActualizaciónBloqueoRatificaciónPrórrogaRecurso de ReposiciónNúmero de ObligaciónNúmero de ReclamoTipo de CarteraCanalSuscriptor</value>
+      <webElementGuid>36a1ce1a-edb2-4111-b871-96ef841bace3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;idFilter2Id&quot;)</value>
+      <webElementGuid>31711cf4-d3f4-421b-b3ae-9e50d9b3efac</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='idFilter2Id']</value>
+      <webElementGuid>2599667e-91e4-4828-b113-4b062a0a28cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Consultar por'])[1]/following::select[2]</value>
+      <webElementGuid>7fee2381-2a24-402a-8668-493570b3a15e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Solicitudes'])[1]/following::select[2]</value>
+      <webElementGuid>cc8fa207-ffb4-489c-b166-6dd09eb602c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Campo requerido'])[1]/preceding::select[1]</value>
+      <webElementGuid>e16a0568-1a33-4127-82b0-f06bcfad693e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ignorar huérfanos'])[1]/preceding::select[1]</value>
+      <webElementGuid>cf6223e8-9c38-4c4d-9f9e-c3421e63425a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/select</value>
+      <webElementGuid>38ae33a2-4396-4f69-a075-c1b7dbc1a656</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'idFilter2Id' and (text() = 'SeleccioneModificaciónCorregido por ActualizaciónBloqueoRatificaciónPrórrogaRecurso de ReposiciónNúmero de ObligaciónNúmero de ReclamoTipo de CarteraCanalSuscriptor' or . = 'SeleccioneModificaciónCorregido por ActualizaciónBloqueoRatificaciónPrórrogaRecurso de ReposiciónNúmero de ObligaciónNúmero de ReclamoTipo de CarteraCanalSuscriptor')]</value>
+      <webElementGuid>10c5c97e-1866-46ab-8eb5-15362f566458</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

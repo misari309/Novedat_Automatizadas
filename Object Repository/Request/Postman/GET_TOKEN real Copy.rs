@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebServiceRequestEntity>
+   <description></description>
+   <name>GET_TOKEN real Copy</name>
+   <tag></tag>
+   <elementGuidId>221f6fd2-f14c-44a3-a6df-81362f37386d</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <connectionTimeout>-1</connectionTimeout>
+   <followRedirects>false</followRedirects>
+   <httpBody></httpBody>
+   <httpBodyContent></httpBodyContent>
+   <httpBodyType></httpBodyType>
+   <httpHeaderProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>Accept</name>
+      <type>Main</type>
+      <value>application/json</value>
+      <webElementGuid>f6f4ef85-e9bb-41e8-a53d-4065b34a244b</webElementGuid>
+   </httpHeaderProperties>
+   <httpHeaderProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>Host</name>
+      <type>Main</type>
+      <value>experian-latamb.oktapreview.com</value>
+      <webElementGuid>31f6e44e-ca1d-4784-b6c0-e66d54a17da5</webElementGuid>
+   </httpHeaderProperties>
+   <httpHeaderProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>Content-Type</name>
+      <type>Main</type>
+      <value>application/x-www-form-urlencoded</value>
+      <webElementGuid>d4bf00c2-08b0-43af-8a89-3fa7078dcaf8</webElementGuid>
+   </httpHeaderProperties>
+   <katalonVersion>8.3.5</katalonVersion>
+   <maxResponseSize>-1</maxResponseSize>
+   <migratedVersion>5.4.1</migratedVersion>
+   <restRequestMethod>POST</restRequestMethod>
+   <restUrl>https://dev-iservicesesb.datacredito.com.co:444/oauth2/ausdbwi7pes71n0hU0h7/v1/token?grant_type=password&amp;username=2-900422614.151@dev.datacredito.com.co&amp;password=3xpNDtD3v-2019&amp;client_id=0oaoy84zgfwmBQPFR0h7&amp;client_secret=XFKqQ4dD04RjJ6fKoSwCD9u-3OKC_ay43EvF2S1K&amp;scope=expco_queue_manager_service</restUrl>
+   <serviceType>RESTful</serviceType>
+   <soapBody></soapBody>
+   <soapHeader></soapHeader>
+   <soapRequestMethod></soapRequestMethod>
+   <soapServiceEndpoint></soapServiceEndpoint>
+   <soapServiceFunction></soapServiceFunction>
+   <socketTimeout>-1</socketTimeout>
+   <useServiceInfoFromWsdl>true</useServiceInfoFromWsdl>
+   <wsdlAddress></wsdlAddress>
+</WebServiceRequestEntity>

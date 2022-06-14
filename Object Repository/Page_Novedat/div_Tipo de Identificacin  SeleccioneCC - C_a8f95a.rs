@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Tipo de Identificacin  SeleccioneCC - C_a8f95a</name>
+   <tag></tag>
+   <elementGuidId>3da00bb5-5c7e-48c8-9277-a9dcd65fb614</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.formulario-field.form-element</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-accordion-child-5']/div/app-form-holder-search/form/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>536197fe-4036-4f4f-a14c-fc9394c986e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>formulario-field form-element</value>
+      <webElementGuid>9d937e21-9ea0-4dad-a514-934561ebd28c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tipo de Identificación * SeleccioneCC - Cédula de Ciudadanía y NUIPNIT - Número de Identificación TributariaNIT EXT. - Persona Jurídica del ExtranjeroC EXT. - Cédula de ExtranjeríaPasaporte - PasaporteCarnet Diplomático - Carnet DiplomáticoTarjeta de Identidad - Tarjeta de IdentidadDocumento Nacional de Identidad - Documento Nacional de IdentidadPEP - Permiso Especial de PermanenciaNúmero de Identificación*Número de ObligaciónJustificación*SeleccioneDerecho de PeticiónTérmino de PermanenciaAlert ModelError ModalError ModalEnviar</value>
+      <webElementGuid>70e49f31-2700-4a36-ac9e-f84e5517dba2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-accordion-child-5&quot;)/div[@class=&quot;mat-expansion-panel-body&quot;]/app-form-holder-search[@class=&quot;matExpansionPanelBody&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-invalid&quot;]/div[@class=&quot;show-obligacion form-element&quot;]/div[@class=&quot;formulario-field form-element&quot;]</value>
+      <webElementGuid>4ed11109-3445-4215-8f9e-481d5fc77a4b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-accordion-child-5']/div/app-form-holder-search/form/div/div</value>
+      <webElementGuid>c06d7121-2ffc-481e-8e42-31978f00acc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contraer'])[1]/following::div[4]</value>
+      <webElementGuid>f3fee6d5-dfdc-477e-b9d2-046bfbbf8940</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::div[4]</value>
+      <webElementGuid>783b967b-bd3e-4b7a-9b74-c791badd2ed0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div</value>
+      <webElementGuid>5a0e1a34-6467-4c12-b186-8fa61a447e64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Tipo de Identificación * SeleccioneCC - Cédula de Ciudadanía y NUIPNIT - Número de Identificación TributariaNIT EXT. - Persona Jurídica del ExtranjeroC EXT. - Cédula de ExtranjeríaPasaporte - PasaporteCarnet Diplomático - Carnet DiplomáticoTarjeta de Identidad - Tarjeta de IdentidadDocumento Nacional de Identidad - Documento Nacional de IdentidadPEP - Permiso Especial de PermanenciaNúmero de Identificación*Número de ObligaciónJustificación*SeleccioneDerecho de PeticiónTérmino de PermanenciaAlert ModelError ModalError ModalEnviar' or . = 'Tipo de Identificación * SeleccioneCC - Cédula de Ciudadanía y NUIPNIT - Número de Identificación TributariaNIT EXT. - Persona Jurídica del ExtranjeroC EXT. - Cédula de ExtranjeríaPasaporte - PasaporteCarnet Diplomático - Carnet DiplomáticoTarjeta de Identidad - Tarjeta de IdentidadDocumento Nacional de Identidad - Documento Nacional de IdentidadPEP - Permiso Especial de PermanenciaNúmero de Identificación*Número de ObligaciónJustificación*SeleccioneDerecho de PeticiónTérmino de PermanenciaAlert ModelError ModalError ModalEnviar')]</value>
+      <webElementGuid>5f07f8a8-7339-4450-a133-cc226a19f52b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

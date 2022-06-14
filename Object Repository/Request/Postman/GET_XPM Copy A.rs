@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebServiceRequestEntity>
+   <description></description>
+   <name>GET_XPM Copy A</name>
+   <tag></tag>
+   <elementGuidId>652e568e-59b5-4623-8b6e-6a7b8041a615</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <connectionTimeout>-1</connectionTimeout>
+   <followRedirects>false</followRedirects>
+   <httpBody></httpBody>
+   <httpBodyContent>{
+  &quot;text&quot;: &quot;{\n    \&quot;source\&quot;: \&quot;RADICACION\&quot;,\n    \&quot;destination\&quot;: \&quot;EBP\&quot;,\n    \&quot;sendTimestamp\&quot;: 1651789002000,\n    \&quot;receivedTimestamp\&quot;: 1651789002000,\n    \&quot;xpmGenerationTimestamp\&quot;: 1651789002000,\n    \&quot;channel\&quot;: \&quot;qa_sla_co_ebp_8_oxygen_novedat_notification\&quot;,\n    \&quot;messageType\&quot;: \&quot;CREATELEGEND\&quot;,\n    \&quot;messageId\&quot;: \&quot;NDAT-LRCE-N-6662114\&quot;,\n    \&quot;subscriber\&quot;: \&quot;SOURCE\&quot;,\n    \&quot;businessLineCode\&quot;: \&quot;020337\&quot;,\n    \&quot;metadata\&quot;: {\n        \&quot;userIdType\&quot;: \&quot;1\&quot;,\n        \&quot;userIdNumber\&quot;: \&quot;5006592\&quot;\n    },\n    \&quot;payload\&quot;: \&quot;{\\\&quot;counterpartyIdType\\\&quot;:\\\&quot;2\\\&quot;,\\\&quot;counterpartyIdNumber\\\&quot;:\\\&quot;00860043186\\\&quot;,\\\&quot;personIdType\\\&quot;:\\\&quot;1\\\&quot;,\\\&quot;personIdNumber\\\&quot;:\\\&quot;30186281\\\&quot;,\\\&quot;fullName\\\&quot;:\\\&quot;MANRIQUE OYOLA LUZ MARINA\\\&quot;,\\\&quot;legendExpiryDate\\\&quot;:\\\&quot;20230427\\\&quot;,\\\&quot;legendType\\\&quot;:\\\&quot;3\\\&quot;,\\\&quot;businessLineCode\\\&quot;:\\\&quot;020337\\\&quot;,\\\&quot;accountType\\\&quot;:\\\&quot;05\\\&quot;,\\\&quot;accountNumber\\\&quot;:\\\&quot;899900144871101100\\\&quot;,\\\&quot;disputeId\\\&quot;:\\\&quot;\\\&quot;,\\\&quot;legendStatus\\\&quot;:\\\&quot;1\\\&quot;,\\\&quot;legendID\\\&quot;:\\\&quot;106\\\&quot;}\&quot;\n}&quot;,
+  &quot;contentType&quot;: &quot;application/json&quot;,
+  &quot;charset&quot;: &quot;UTF-8&quot;
+}</httpBodyContent>
+   <httpBodyType>text</httpBodyType>
+   <httpHeaderProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>Content-Type</name>
+      <type>Main</type>
+      <value>application/json</value>
+      <webElementGuid>db173f12-abe2-40e7-a690-a2b27d255972</webElementGuid>
+   </httpHeaderProperties>
+   <httpHeaderProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>access_token</name>
+      <type>Main</type>
+      <value>eyJraWQiOiJvWkZVRWU4XzZZMkZOTUVfTFpCbkJWRFJRQXBkWnRpR0YzSVh5dUdQbGxRIiwiYWxnIjoiUlMyNTYifQ.eyJ2ZXIiOjEsImp0aSI6IkFULll1YUcyOUpGR29EN0ticnR3NldMUkRrOUNraHdHVXRnQ0otdUNyYmFJdFEiLCJpc3MiOiJodHRwczovL2V4cGVyaWFuLWxhdGFtYi5va3RhcHJldmlldy5jb20vb2F1dGgyL2F1c2Rid2k3cGVzNzFuMGhVMGg3IiwiYXVkIjoiaHR0cHM6Ly93d3cuZGF0YWNyZWRpdG8uY29tLmNvL2NsaWVudHMiLCJpYXQiOjE2NTE4NjgxNDcsImV4cCI6MTY1MTkyNTc0NywiY2lkIjoiMG9hb3k4NHpnZndtQlFQRlIwaDciLCJ1aWQiOiIwMHVveTlzeWQ0YnE0ajF6RzBoNyIsInNjcCI6WyJleHBjb19xdWV1ZV9tYW5hZ2VyX3NlcnZpY2UiXSwiYXV0aF90aW1lIjoxNjUxODY4MTQ3LCJzdWIiOiIyLTkwMDQyMjYxNC4xNTFAZGV2LmRhdGFjcmVkaXRvLmNvbS5jbyIsImV4cGNvX2Jhc2VfZW1haWwiOiJnYWJyaWVsLnZlZ2FzQGV4cGVyaWFuLmNvbSIsImV4cGNvX2Jhc2VfbGFzdE5hbWUiOiJBcGxpY2F0aW9uKGRldikiLCJleHBjb19iYXNlX2lkVHlwZSI6IjIiLCJleHBjb19iYXNlX2ZpcnN0TmFtZSI6Ik5vdmVkYXQgQ29yZSIsImV4cGNvX2F1dGh6X3F1ZXVlX21hbmFnZXJfc2VydmljZSI6IntcImlkXCI6XCIyMjBcIixcIm5hbWVcIjpcIlF1ZXVlIE1hbmFnZXJcIixcImN1c3RvbWVyc1wiOlt7XCJpZFR5cGVcIjpcIjJcIixcImlkXCI6XCI5MDA0MjI2MTRcIixcImxlZ2FsTmFtZVwiOlwiRVhQRVJJQU4gQ09MT01CSUEgUy5BLlwiLFwidXNlck1haWxcIjpcImdhYnJpZWwudmVnYXNAZXhwZXJpYW4uY29tXCIsXCJ1c2VyQ2l0eVwiOlwiQk9HT1RBIEQuQy5cIixcInVzZXJPZmZpY2VcIjpcIkV4cGVyaWFuXCIsXCJwcm9maWxlc1wiOlt7XCJpZFwiOlwiMzQ1MlwiLFwibmFtZVwiOlwiU2VydmljaW8gLSBRdWV1ZSBNYW5hZ2VyXCIsXCJpZFBlcmZpbEFwcFwiOlwiMzQxMlwiLFwiY29uZmlndXJhdGlvblwiOntcInNlcnZpY2VzXCI6W1wic3luY01lc3NhZ2VcIl19fV19XX0iLCJleHBjb19iYXNlX2xvZ2luIjoiMi05MDA0MjI2MTQuMTUxQGRldi5kYXRhY3JlZGl0by5jb20uY28iLCJleHBjb19iYXNlX2FwaVVzZXIiOnRydWUsImV4cGNvX2Jhc2VfaWROdW1iZXIiOiI5MDA0MjI2MTQiLCJleHBjb19iYXNlX3NlY29uZEVtYWlsIjoiZWRpc3Nvbi52YXJnYXNAZXhwZXJpYW4uY29tIn0.R95lggN6rEpbQJlXlmDaOTTjn_hzhqUY0dfC9Cy8bKhDSGNS7jaTWJ__pJzFBWO-09AJn0iKBA6TqOiaj72wyddy4gnpwbaAtm6BxuHeSRBRMR708Zx7qYf1v_TDjQEHVgzyYoMoDFUSD8pd9Qf17zqdTikfDEdtgu0qp2VhVPy5tZA4Y2vW8BB0J_pnvvOvyIJPjL5aVIyOXUhnS1Y7HAicGnno5pkYNJfcjTB9vcevpP73mxao_P_nhf2DlpmTMU5NasSavmpCcYZCYzhsB9sh3AfIHs8buSaR9TRtgdI6_WDdR1-SpK3y747WJPW9uubC99Pa6yvYy6opfK0kRA</value>
+      <webElementGuid>96ee78cd-53a6-41a2-861e-021e5f57e68f</webElementGuid>
+   </httpHeaderProperties>
+   <httpHeaderProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>X-Experian-SLA-Env</name>
+      <type>Main</type>
+      <value>qa8</value>
+      <webElementGuid>77a18e71-152f-486c-a05c-b2e2c9ae466e</webElementGuid>
+   </httpHeaderProperties>
+   <httpHeaderProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>client_secret</name>
+      <type>Main</type>
+      <value>slfYbyiQdAAVxXGpCJnS2HpJMP4sSISli5lI5rwc</value>
+      <webElementGuid>865bf04f-8f9c-43e1-b2eb-de08492e4bc2</webElementGuid>
+   </httpHeaderProperties>
+   <httpHeaderProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>client_id</name>
+      <type>Main</type>
+      <value>0oap0nck68163Jp7r0h7</value>
+      <webElementGuid>00401618-ef47-4c40-869d-615d66fd9e6d</webElementGuid>
+   </httpHeaderProperties>
+   <katalonVersion>8.3.5</katalonVersion>
+   <maxResponseSize>-1</maxResponseSize>
+   <migratedVersion>5.4.1</migratedVersion>
+   <restRequestMethod>POST</restRequestMethod>
+   <restUrl>https://10.54.16.33:444/op/bureau/edf/v1/hf</restUrl>
+   <serviceType>RESTful</serviceType>
+   <soapBody></soapBody>
+   <soapHeader></soapHeader>
+   <soapRequestMethod></soapRequestMethod>
+   <soapServiceEndpoint></soapServiceEndpoint>
+   <soapServiceFunction></soapServiceFunction>
+   <socketTimeout>-1</socketTimeout>
+   <useServiceInfoFromWsdl>true</useServiceInfoFromWsdl>
+   <wsdlAddress></wsdlAddress>
+</WebServiceRequestEntity>

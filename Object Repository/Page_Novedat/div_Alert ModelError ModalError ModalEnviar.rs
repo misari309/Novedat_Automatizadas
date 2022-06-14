@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Alert ModelError ModalError ModalEnviar</name>
+   <tag></tag>
+   <elementGuidId>5181ad71-f970-4e69-a6ad-8e28af5f4fae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.btn-container</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-accordion-child-5']/div/app-form-holder-search/form/div/div/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4009fc36-e5ae-4400-abb7-740bfad95d76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-container</value>
+      <webElementGuid>73c52ee3-23f3-41f3-995d-fd3a724f3cd0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Alert ModelError ModalError ModalEnviar</value>
+      <webElementGuid>ef376ecf-0fcc-46be-9490-be42c1e49e0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-accordion-child-5&quot;)/div[@class=&quot;mat-expansion-panel-body&quot;]/app-form-holder-search[@class=&quot;matExpansionPanelBody&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-invalid&quot;]/div[@class=&quot;show-obligacion form-element&quot;]/div[@class=&quot;formulario-field form-element&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12 col-sm-12 col-12&quot;]/div[@class=&quot;btn-container&quot;]</value>
+      <webElementGuid>81f004fb-3185-4f85-bf55-04d104a9cfcd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-accordion-child-5']/div/app-form-holder-search/form/div/div/div[2]/div/div</value>
+      <webElementGuid>d3b66986-2016-445d-b512-2b1ef52f12c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[4]/following::div[3]</value>
+      <webElementGuid>f7712aaa-7805-47b8-85e8-ab5c06436f79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/div</value>
+      <webElementGuid>29b2ec14-9196-4c0e-9df7-94f42004215b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Alert ModelError ModalError ModalEnviar' or . = 'Alert ModelError ModalError ModalEnviar')]</value>
+      <webElementGuid>4557706e-6e69-4348-b2ad-938718b9e588</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

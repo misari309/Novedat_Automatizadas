@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Vector Comportamiento_goMyList (4)</name>
+   <tag></tag>
+   <elementGuidId>396c7713-a47a-4dc7-895b-abba2c6f0e72</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;goMyList&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='goMyList']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>52a78aa9-5774-4533-bec3-40cf692e0f24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary pull-right right10</value>
+      <webElementGuid>b9db64ef-2fec-4197-826f-b5fa259b5c14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>goMyList</value>
+      <webElementGuid>a15b8795-b74c-461d-9b50-9cc86c89d2ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>923a23ca-09ac-4d05-a0b4-1b743ab90870</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Ir a mi lista</value>
+      <webElementGuid>c8587bd9-36f4-4aa3-a6b0-fa3fa41ab882</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/article[@class=&quot;main-content&quot;]/app-answer-modification-detail-holder[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;btn-container typeLetterBody&quot;]/input[@class=&quot;btn btn-primary pull-right right10&quot;]</value>
+      <webElementGuid>782f07bf-1b6c-4d31-a6f3-a6e842ab842a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@name='goMyList']</value>
+      <webElementGuid>5bb98ac8-eef4-459b-bfd3-2c977ef391e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/input[2]</value>
+      <webElementGuid>9530be7c-7495-4927-8cf4-7491412ad64b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@name = 'goMyList' and @type = 'button']</value>
+      <webElementGuid>701ca11b-3303-4c41-88e4-fd2b7019fe45</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_70004888</name>
+   <tag></tag>
+   <elementGuidId>a9012eb5-87c7-4fc8-9de0-152c6ef432cd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h6 > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/app-root/article/app-get-lists/section[3]/div/mat-card/div/table/tbody/tr/td[1]/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6d8c04c9-351c-483b-8f97-d42cf7f977bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>70004888</value>
+      <webElementGuid>b8769c9c-a6b9-434e-9a5c-ccd5d6e25aa1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/article[@class=&quot;main-content&quot;]/app-answer-modification-detail-holder[@class=&quot;ng-star-inserted&quot;]/section[@class=&quot;obligacion-info acc-info typeLetterBody&quot;]/div[@class=&quot;page-card&quot;]/div[@class=&quot;success-page&quot;]/div[@class=&quot;success-txt&quot;]/h6[1]/span[1]</value>
+      <webElementGuid>e4b0a916-5f23-4ef0-bfa5-f4087fb5cc84</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Resultado del Reclamo:'])[1]/following::span[1]</value>
+      <webElementGuid>f68c93d9-2282-42bd-92ce-fde40710a869</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nombres y Apellidos del Titular'])[1]/preceding::span[1]</value>
+      <webElementGuid>79ec0bf5-da04-493c-8dc2-c69c2c43d8a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipo de Identificación'])[1]/preceding::span[1]</value>
+      <webElementGuid>c9c13300-85b9-4a7d-bf17-cc39231afc49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='70004888']/parent::*</value>
+      <webElementGuid>0a1910e4-48b8-495f-967d-71bb06bac150</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h6/span</value>
+      <webElementGuid>71fee511-5cb5-4a0b-8c9b-01ec005998a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '70004888' or . = '70004888')]</value>
+      <webElementGuid>9aeb710c-11c5-4f2f-b8a3-c1e665a8a940</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

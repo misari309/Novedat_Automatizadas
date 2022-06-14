@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Formulario de consulta (1)</name>
+   <tag></tag>
+   <elementGuidId>49e3b7fa-9e64-4065-b935-5df39654eeb1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='dispute']/li</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#dispute > li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>15b90571-3f43-42fc-9e54-2b8a9f36ecaa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>▪ Formulario de consulta</value>
+      <webElementGuid>4b71883e-ec89-40bf-a2c1-bfda69fef82b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dispute&quot;)/li[1]</value>
+      <webElementGuid>109407fb-fee6-4d85-85d1-c7380574a9c9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='dispute']/li</value>
+      <webElementGuid>6f4e4724-8dd6-4a2a-a879-3cb2a4d4427c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reclamos'])[1]/following::li[1]</value>
+      <webElementGuid>0b216162-f37c-4723-867e-a187ebcbb970</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alertas y comentarios'])[1]/following::li[2]</value>
+      <webElementGuid>39d42073-f3a6-4983-b689-2f46e5f050d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='▪ Respuesta de reclamos'])[1]/preceding::li[1]</value>
+      <webElementGuid>145e3793-68ac-4ca6-be2e-71bbfd826e93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]/li</value>
+      <webElementGuid>6ec1250c-98ce-43f1-af38-11b2c5537de7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = '▪ Formulario de consulta' or . = '▪ Formulario de consulta')]</value>
+      <webElementGuid>8ee8ee7f-de48-4ccf-98ed-b7e77b253dc1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
