@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Lista</name>
+   <tag></tag>
+   <elementGuidId>03443f1d-133e-4e37-8848-1c69ec060d3a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.ng-star-inserted > li</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='menuP']/app-menu/nav/ul/a/li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>cd2b70ec-6eaf-44bc-a870-7607222330da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lista</value>
+      <webElementGuid>39deed6f-221e-4d01-9428-3f984ade27eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menuP&quot;)/app-menu[1]/nav[1]/ul[1]/a[@class=&quot;ng-star-inserted&quot;]/li[1]</value>
+      <webElementGuid>a25d8f00-ba33-4151-951b-a25632e960cd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='menuP']/app-menu/nav/ul/a/li</value>
+      <webElementGuid>c8ff4918-ebc5-4e54-8a0b-82cfdd07be66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menú'])[1]/following::li[1]</value>
+      <webElementGuid>627d11db-366a-48c0-981b-54bc07a7bb9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alertas y comentarios'])[1]/preceding::li[1]</value>
+      <webElementGuid>62155a52-47a4-46ca-b886-5ef842175b53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/li</value>
+      <webElementGuid>94b3ecd2-43e7-4402-9003-86f100ec738e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Lista' or . = 'Lista')]</value>
+      <webElementGuid>b8da350c-aedd-4b3a-909e-88131ee9ea44</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

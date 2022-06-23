@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_SeleccioneFINALIZ EL PROCESO DE INVE_c417e2</name>
+   <tag></tag>
+   <elementGuidId>94e7eabd-14d2-4eee-99d4-bdff2c001818</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='justificationType']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#justificationType</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>7cfb3914-3c7d-4526-90d4-ab5d9df7ddbe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-sm-7 form-control ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>fab9eb1f-01bc-4243-9eb2-9ac1a4c95bb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>justificationType</value>
+      <webElementGuid>8936f084-b385-4f0a-916c-05d8ef320930</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>justificationType</value>
+      <webElementGuid>ccff2a5b-ccc3-4e69-9e22-4dd7510dc139</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SeleccioneFINALIZÓ EL PROCESO DE INVESTIGACIÓN POR PARTE DE LA ENTIDADSE ELIMINÓ POR ERROR LA OBLIGACIÓNIMPUGNACION DE FALLO POR TUTELACLIENTE NO FUE OBJETO DE SUPLANTACIÓN DE IDENTIDADCLIENTE INCUMPLIO ACUERDO DE PAGOENTIDAD CUENTA CON SOPORTE DE NOTIFICACION PREVIAERROR EN PROCESO DE BLOQUEOFALLO DE TUTELASENTENCIA JUDICIALCUENTA NO CORRESPONDESE REVERSA DESICIÓN DE BLOQUEO DESDE LA FUENTEEXISTENCIA DE SOPORTES DE OBLIGACIONREVERSÓ POR VALIDACIÓN DE DECRETO 2952 FUERZA MAYOR</value>
+      <webElementGuid>4edbd3c6-fbdb-4caf-bd0e-34eebd03635b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;alert-modal&quot;)/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;form-group row widthModalListRow&quot;]/select[@id=&quot;justificationType&quot;]</value>
+      <webElementGuid>4801624d-2baf-4169-86a9-878b8cff3552</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='justificationType']</value>
+      <webElementGuid>c05126dc-b76b-4859-ad36-e8a83a2648e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='alert-modal']/div/div/div/div[12]/div/select</value>
+      <webElementGuid>b6bcfe28-e224-4a86-962d-d96db32721e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[4]/following::select[1]</value>
+      <webElementGuid>eb139960-d506-4ba8-9bb2-6acc166bf471</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[5]/preceding::select[1]</value>
+      <webElementGuid>b01249f6-78f3-4461-a9e7-c117828ed13e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[12]/div/select</value>
+      <webElementGuid>ecccc9e4-92ff-4e6d-aae8-299f632efba5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'justificationType' and @name = 'justificationType' and (text() = 'SeleccioneFINALIZÓ EL PROCESO DE INVESTIGACIÓN POR PARTE DE LA ENTIDADSE ELIMINÓ POR ERROR LA OBLIGACIÓNIMPUGNACION DE FALLO POR TUTELACLIENTE NO FUE OBJETO DE SUPLANTACIÓN DE IDENTIDADCLIENTE INCUMPLIO ACUERDO DE PAGOENTIDAD CUENTA CON SOPORTE DE NOTIFICACION PREVIAERROR EN PROCESO DE BLOQUEOFALLO DE TUTELASENTENCIA JUDICIALCUENTA NO CORRESPONDESE REVERSA DESICIÓN DE BLOQUEO DESDE LA FUENTEEXISTENCIA DE SOPORTES DE OBLIGACIONREVERSÓ POR VALIDACIÓN DE DECRETO 2952 FUERZA MAYOR' or . = 'SeleccioneFINALIZÓ EL PROCESO DE INVESTIGACIÓN POR PARTE DE LA ENTIDADSE ELIMINÓ POR ERROR LA OBLIGACIÓNIMPUGNACION DE FALLO POR TUTELACLIENTE NO FUE OBJETO DE SUPLANTACIÓN DE IDENTIDADCLIENTE INCUMPLIO ACUERDO DE PAGOENTIDAD CUENTA CON SOPORTE DE NOTIFICACION PREVIAERROR EN PROCESO DE BLOQUEOFALLO DE TUTELASENTENCIA JUDICIALCUENTA NO CORRESPONDESE REVERSA DESICIÓN DE BLOQUEO DESDE LA FUENTEEXISTENCIA DE SOPORTES DE OBLIGACIONREVERSÓ POR VALIDACIÓN DE DECRETO 2952 FUERZA MAYOR')]</value>
+      <webElementGuid>258f0970-dd25-41c2-8aa0-26b3a65bd792</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Proceed  Without Changes_accept-transmit</name>
+   <name>input_Estado Proceso_checkboxListCom</name>
    <tag></tag>
-   <elementGuidId>fe923d5e-b5ac-445b-a070-7d7a855b0434</elementGuidId>
+   <elementGuidId>01400ee1-6461-4653-b38f-b21f845b59d1</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/app-root/article/app-redicar-detail-holder-page/div[4]/div/div/div/div/input[2]</value>
+         <value>//input[@id='checkboxListCom']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#accept-transmit</value>
+         <value>#checkboxListCom</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,78 +22,86 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>bd21b483-f4b4-48fc-b675-3b694f841cce</webElementGuid>
+      <webElementGuid>2ff48398-3183-4bf9-a90e-95c3b2a943e5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-primary</value>
-      <webElementGuid>bd7ed43f-e609-47c9-a250-28105ae2ec17</webElementGuid>
+      <value>checkboxMyList</value>
+      <webElementGuid>b8e863d2-0764-4730-9036-e1fba85ce21f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>accept-transmit</value>
-      <webElementGuid>9c749ccb-a63b-442c-8345-886541e041cb</webElementGuid>
+      <value>checkboxListCom</value>
+      <webElementGuid>ee9e9412-c929-41c9-980b-21ed984e202a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>checkboxListCom</value>
+      <webElementGuid>6e7129dc-06f0-435c-844e-a1a85ca8347f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>0405b954-13d2-4c23-9ff7-41500f17de36</webElementGuid>
+      <value>checkbox</value>
+      <webElementGuid>44cf44ef-3658-463e-98a5-58778a1d0485</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>value</name>
       <type>Main</type>
-      <value>Aceptar</value>
-      <webElementGuid>789eebf6-53f5-401b-bdee-82f4eaadc936</webElementGuid>
+      <value>31472774</value>
+      <webElementGuid>c5f3ef9d-0e53-4aad-bbb4-1e6cf562cc0d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;accept-transmit&quot;)</value>
-      <webElementGuid>6d07b769-b3f3-4d2c-92f7-e1a7978db5dc</webElementGuid>
+      <value>id(&quot;checkboxListCom&quot;)</value>
+      <webElementGuid>b67dcec0-6004-4964-ab17-ccb95c72583e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='accept-transmit']</value>
-      <webElementGuid>68156a66-c937-4dd0-a5e0-a072a6c8fac9</webElementGuid>
+      <value>//input[@id='checkboxListCom']</value>
+      <webElementGuid>5e1e8d0f-9d59-4e87-a16c-a72bef356d63</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='modal-transmit']/div/div/div/div/input[2]</value>
-      <webElementGuid>2f8129b3-a2fe-4159-808b-3f138c5682a9</webElementGuid>
+      <value>//div[@id='no-more-tables']/table/tbody/tr/td/input</value>
+      <webElementGuid>c87c3764-7710-494e-b029-8a898446a006</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[4]/div/div/div/div/input[2]</value>
-      <webElementGuid>3e2a6be4-2dc7-4110-934f-0f1a0dc9504d</webElementGuid>
+      <value>//td/input</value>
+      <webElementGuid>51562b7c-3e87-4d03-8088-58d0a240d87d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@id = 'accept-transmit' and @type = 'button']</value>
-      <webElementGuid>1e7ff221-7133-44bf-b5a3-0199058b3231</webElementGuid>
+      <value>//input[@id = 'checkboxListCom' and @name = 'checkboxListCom' and @type = 'checkbox']</value>
+      <webElementGuid>4cc9f9c3-2809-48e6-9215-1acb0eb0a92b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

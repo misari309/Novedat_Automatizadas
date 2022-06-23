@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Acciones Operador</name>
+   <tag></tag>
+   <elementGuidId>50c4893e-f6ce-4ac9-bf74-85d9dc836fcb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='reactivation-account']/li</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#reactivation-account > li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>5951c772-ebae-4e31-96d3-af4f2af16492</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Acciones Operador</value>
+      <webElementGuid>c5f5ff08-4f38-4dfe-b5fc-a940146b0e55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;reactivation-account&quot;)/li[1]</value>
+      <webElementGuid>1b3af070-6925-4c4c-aae2-84278be6de24</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='reactivation-account']/li</value>
+      <webElementGuid>a2b7de23-93b0-4fc6-a266-29cb439e749e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reportes'])[1]/following::li[1]</value>
+      <webElementGuid>ddf76e10-0bda-48ae-a932-c5f9b0b483f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Comentarios'])[1]/following::li[2]</value>
+      <webElementGuid>a543f02d-e1ff-4769-9399-97884872549d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Atención ciudadano'])[1]/preceding::li[1]</value>
+      <webElementGuid>33e8d0a4-b6f7-4c87-a8dc-f28234ec268d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[11]/li</value>
+      <webElementGuid>27456c01-4616-4ae1-ad67-45d34d6e53e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Acciones Operador' or . = 'Acciones Operador')]</value>
+      <webElementGuid>8f463d39-fd69-46c4-8fbf-108e3c536cea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

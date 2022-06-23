@@ -24,4 +24,9 @@
       <initValue>''</initValue>
       <name>caseNumber</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Novedat21'</initValue>
+      <name>password</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

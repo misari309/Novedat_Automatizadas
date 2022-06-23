@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Desea Reactivar la CuentaNombres y Apel_5cec88</name>
+   <tag></tag>
+   <elementGuidId>591d705e-4756-4f13-9f22-5b1a1dc1a79e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='alert-modal']/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.modal-body</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>725275a6-3314-46e1-b708-68211b117c79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>modal-body</value>
+      <webElementGuid>5d5bbdb0-875f-4d8c-bd7e-a5be6e77bcbb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Desea Reactivar la CuentaNombres y Apellidos del TitularBELTRAN ROJAS LUIS                                        Tipo de IdentificaciónCC-Cédula de Ciudadanía y NUIPNúmero de Identificación29694959Número de Obligación00000011112M111375Tipo de CarteraCAUNombre del SuscriptorMOTOMARKET      Código del Suscriptor450264Nombre del AnalistaGONZALEZ VELASQUEZ FRANDO ALEXISFecha en que se eliminó2022-06-09JustificaciónINCONSISTENCIA EN EL SISTEMAJustificación*SeleccioneFINALIZÓ EL PROCESO DE INVESTIGACIÓN POR PARTE DE LA ENTIDADSE ELIMINÓ POR ERROR LA OBLIGACIÓNIMPUGNACION DE FALLO POR TUTELACLIENTE NO FUE OBJETO DE SUPLANTACIÓN DE IDENTIDADCLIENTE INCUMPLIO ACUERDO DE PAGOENTIDAD CUENTA CON SOPORTE DE NOTIFICACION PREVIAERROR EN PROCESO DE BLOQUEOFALLO DE TUTELASENTENCIA JUDICIALCUENTA NO CORRESPONDESE REVERSA DESICIÓN DE BLOQUEO DESDE LA FUENTEEXISTENCIA DE SOPORTES DE OBLIGACIONREVERSÓ POR VALIDACIÓN DE DECRETO 2952 FUERZA MAYORComentario* </value>
+      <webElementGuid>1c1fd76b-090b-4abe-84f7-707eb2df0333</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;alert-modal&quot;)/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]</value>
+      <webElementGuid>fae6f1be-ca69-4102-a5b6-2f9100528aa3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='alert-modal']/div/div/div</value>
+      <webElementGuid>4f1b0a8d-5373-4fa5-bc2d-937c6453818e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/following::div[1]</value>
+      <webElementGuid>122ca55e-6fa1-4045-9a91-6e742fb28c6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='B'])[1]/following::div[5]</value>
+      <webElementGuid>3544a953-7517-4c78-abd4-f674fc6be852</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-reactivation-account/div[2]/div/div/div</value>
+      <webElementGuid>53038fb6-ccb2-4dd5-8cfc-b7a5fb479753</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Desea Reactivar la CuentaNombres y Apellidos del TitularBELTRAN ROJAS LUIS                                        Tipo de IdentificaciónCC-Cédula de Ciudadanía y NUIPNúmero de Identificación29694959Número de Obligación00000011112M111375Tipo de CarteraCAUNombre del SuscriptorMOTOMARKET      Código del Suscriptor450264Nombre del AnalistaGONZALEZ VELASQUEZ FRANDO ALEXISFecha en que se eliminó2022-06-09JustificaciónINCONSISTENCIA EN EL SISTEMAJustificación*SeleccioneFINALIZÓ EL PROCESO DE INVESTIGACIÓN POR PARTE DE LA ENTIDADSE ELIMINÓ POR ERROR LA OBLIGACIÓNIMPUGNACION DE FALLO POR TUTELACLIENTE NO FUE OBJETO DE SUPLANTACIÓN DE IDENTIDADCLIENTE INCUMPLIO ACUERDO DE PAGOENTIDAD CUENTA CON SOPORTE DE NOTIFICACION PREVIAERROR EN PROCESO DE BLOQUEOFALLO DE TUTELASENTENCIA JUDICIALCUENTA NO CORRESPONDESE REVERSA DESICIÓN DE BLOQUEO DESDE LA FUENTEEXISTENCIA DE SOPORTES DE OBLIGACIONREVERSÓ POR VALIDACIÓN DE DECRETO 2952 FUERZA MAYORComentario* ' or . = 'Desea Reactivar la CuentaNombres y Apellidos del TitularBELTRAN ROJAS LUIS                                        Tipo de IdentificaciónCC-Cédula de Ciudadanía y NUIPNúmero de Identificación29694959Número de Obligación00000011112M111375Tipo de CarteraCAUNombre del SuscriptorMOTOMARKET      Código del Suscriptor450264Nombre del AnalistaGONZALEZ VELASQUEZ FRANDO ALEXISFecha en que se eliminó2022-06-09JustificaciónINCONSISTENCIA EN EL SISTEMAJustificación*SeleccioneFINALIZÓ EL PROCESO DE INVESTIGACIÓN POR PARTE DE LA ENTIDADSE ELIMINÓ POR ERROR LA OBLIGACIÓNIMPUGNACION DE FALLO POR TUTELACLIENTE NO FUE OBJETO DE SUPLANTACIÓN DE IDENTIDADCLIENTE INCUMPLIO ACUERDO DE PAGOENTIDAD CUENTA CON SOPORTE DE NOTIFICACION PREVIAERROR EN PROCESO DE BLOQUEOFALLO DE TUTELASENTENCIA JUDICIALCUENTA NO CORRESPONDESE REVERSA DESICIÓN DE BLOQUEO DESDE LA FUENTEEXISTENCIA DE SOPORTES DE OBLIGACIONREVERSÓ POR VALIDACIÓN DE DECRETO 2952 FUERZA MAYORComentario* ')]</value>
+      <webElementGuid>50adae97-e67b-426b-b04d-c11f5c021d98</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

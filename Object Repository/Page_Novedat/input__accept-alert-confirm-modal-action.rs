@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Proceed  Without Changes_accept-transmit</name>
+   <name>input__accept-alert-confirm-modal-action</name>
    <tag></tag>
-   <elementGuidId>fe923d5e-b5ac-445b-a070-7d7a855b0434</elementGuidId>
+   <elementGuidId>7350098b-617b-4046-8ea5-5cbfa3a4e683</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/app-root/article/app-redicar-detail-holder-page/div[4]/div/div/div/div/input[2]</value>
+         <value>//input[@id='accept-alert-confirm-modal-action']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#accept-transmit</value>
+         <value>#accept-alert-confirm-modal-action</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>bd21b483-f4b4-48fc-b675-3b694f841cce</webElementGuid>
+      <webElementGuid>86161e02-c918-409f-b565-53a6207d2452</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,15 +30,15 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-primary</value>
-      <webElementGuid>bd7ed43f-e609-47c9-a250-28105ae2ec17</webElementGuid>
+      <webElementGuid>23960188-6115-45b0-a557-501ecb267a86</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>accept-transmit</value>
-      <webElementGuid>9c749ccb-a63b-442c-8345-886541e041cb</webElementGuid>
+      <value>accept-alert-confirm-modal-action</value>
+      <webElementGuid>00f32c56-cc4b-47cb-a55a-cba29a1fb420</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>0405b954-13d2-4c23-9ff7-41500f17de36</webElementGuid>
+      <webElementGuid>2f129c6b-5468-403e-8a2d-f47d10067e68</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,46 +54,46 @@
       <name>value</name>
       <type>Main</type>
       <value>Aceptar</value>
-      <webElementGuid>789eebf6-53f5-401b-bdee-82f4eaadc936</webElementGuid>
+      <webElementGuid>03fc7697-5f7f-4b83-8f21-5dc3c5c92e0b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;accept-transmit&quot;)</value>
-      <webElementGuid>6d07b769-b3f3-4d2c-92f7-e1a7978db5dc</webElementGuid>
+      <value>id(&quot;accept-alert-confirm-modal-action&quot;)</value>
+      <webElementGuid>c9bd5153-2343-4ea9-a4b4-6fdba5be6485</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='accept-transmit']</value>
-      <webElementGuid>68156a66-c937-4dd0-a5e0-a072a6c8fac9</webElementGuid>
+      <value>//input[@id='accept-alert-confirm-modal-action']</value>
+      <webElementGuid>3442682e-247a-4473-a47a-393279f2dd7a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='modal-transmit']/div/div/div/div/input[2]</value>
-      <webElementGuid>2f8129b3-a2fe-4159-808b-3f138c5682a9</webElementGuid>
+      <value>//div[@id='alert-confirm-modal-action']/div/div/div/div/input[2]</value>
+      <webElementGuid>380d43e5-3a3d-4cae-8020-25b100d647fd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[4]/div/div/div/div/input[2]</value>
-      <webElementGuid>3e2a6be4-2dc7-4110-934f-0f1a0dc9504d</webElementGuid>
+      <value>//div[3]/div/div/div/div/input[2]</value>
+      <webElementGuid>ea8c3761-c2ae-45d4-900d-97ce8fe9e56e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@id = 'accept-transmit' and @type = 'button']</value>
-      <webElementGuid>1e7ff221-7133-44bf-b5a3-0199058b3231</webElementGuid>
+      <value>//input[@id = 'accept-alert-confirm-modal-action' and @type = 'button']</value>
+      <webElementGuid>83c1b565-47ee-461d-ad7f-94cf39cc9181</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Proceed  Without Changes_accept-transmit</name>
+   <name>input_Comentario_btn btn-primary ml-1 mb-1 _bf80a5</name>
    <tag></tag>
-   <elementGuidId>fe923d5e-b5ac-445b-a070-7d7a855b0434</elementGuidId>
+   <elementGuidId>121eec9a-65c4-41d7-8846-b5906e0c3545</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/app-root/article/app-redicar-detail-holder-page/div[4]/div/div/div/div/input[2]</value>
+         <value>//input[@value='Aplicar masivo']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#accept-transmit</value>
+         <value>input.btn.btn-primary.ml-1.mb-1.ng-star-inserted</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,23 +22,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>bd21b483-f4b4-48fc-b675-3b694f841cce</webElementGuid>
+      <webElementGuid>99ddda69-35e7-403f-b595-7b167b3bf1b1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-primary</value>
-      <webElementGuid>bd7ed43f-e609-47c9-a250-28105ae2ec17</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>accept-transmit</value>
-      <webElementGuid>9c749ccb-a63b-442c-8345-886541e041cb</webElementGuid>
+      <value>btn btn-primary ml-1 mb-1 ng-star-inserted</value>
+      <webElementGuid>feb103db-83ac-4f3c-a5a4-a369c264945e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,54 +38,46 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>0405b954-13d2-4c23-9ff7-41500f17de36</webElementGuid>
+      <webElementGuid>bc1a59a0-cff4-42b4-97a0-210caab3efdd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>value</name>
       <type>Main</type>
-      <value>Aceptar</value>
-      <webElementGuid>789eebf6-53f5-401b-bdee-82f4eaadc936</webElementGuid>
+      <value>Aplicar masivo</value>
+      <webElementGuid>09d3577d-2ceb-4773-afeb-1f502cba319b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;accept-transmit&quot;)</value>
-      <webElementGuid>6d07b769-b3f3-4d2c-92f7-e1a7978db5dc</webElementGuid>
+      <value>/html[1]/body[1]/app-root[1]/article[@class=&quot;main-content&quot;]/app-operations-massives[@class=&quot;ng-star-inserted&quot;]/section[@class=&quot;ng-star-inserted&quot;]/form[@class=&quot;ng-dirty ng-touched ng-valid&quot;]/section[@class=&quot;select-action&quot;]/div[@class=&quot;page-card&quot;]/div[@class=&quot;acc-info&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-2 col-sm-4 col-12&quot;]/div[@class=&quot;form-group applyOperativemassive&quot;]/input[@class=&quot;btn btn-primary ml-1 mb-1 ng-star-inserted&quot;]</value>
+      <webElementGuid>bbb55797-f0b8-46a4-9b4d-80d6f1aae988</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='accept-transmit']</value>
-      <webElementGuid>68156a66-c937-4dd0-a5e0-a072a6c8fac9</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
-      <type>Main</type>
-      <value>//div[@id='modal-transmit']/div/div/div/div/input[2]</value>
-      <webElementGuid>2f8129b3-a2fe-4159-808b-3f138c5682a9</webElementGuid>
+      <value>//input[@value='Aplicar masivo']</value>
+      <webElementGuid>3821aef8-f6fd-4155-a63b-bca69c59f3d4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[4]/div/div/div/div/input[2]</value>
-      <webElementGuid>3e2a6be4-2dc7-4110-934f-0f1a0dc9504d</webElementGuid>
+      <value>//div/input[2]</value>
+      <webElementGuid>3956841f-691f-4bb5-9128-c62fe541c81e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@id = 'accept-transmit' and @type = 'button']</value>
-      <webElementGuid>1e7ff221-7133-44bf-b5a3-0199058b3231</webElementGuid>
+      <value>//input[@type = 'button']</value>
+      <webElementGuid>b87df187-608e-4d07-8f25-13ab486398a6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

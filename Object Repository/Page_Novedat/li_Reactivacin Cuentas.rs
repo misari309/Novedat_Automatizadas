@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Reactivacin Cuentas</name>
+   <tag></tag>
+   <elementGuidId>e3e1f099-b266-4759-ba17-50946d6714b7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='selectReactivacion']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#selectReactivacion</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>3004d75e-baeb-4334-a594-36a2c7da3c78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-star-inserted</value>
+      <webElementGuid>6a89fec6-8e90-42e9-bcce-abe4e71b75ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>selectReactivacion</value>
+      <webElementGuid>f08ad58f-7ac4-4228-9878-5dff92e433a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Reactivación Cuentas</value>
+      <webElementGuid>68af0d9a-f13b-4f51-82d4-35bbe34052a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;selectReactivacion&quot;)</value>
+      <webElementGuid>5fd16a9a-2a68-4f06-a366-d57ce54ff126</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//li[@id='selectReactivacion']</value>
+      <webElementGuid>d503141c-6233-405f-8855-4ecf43b5e7ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bloqueo Temporal'])[1]/following::li[1]</value>
+      <webElementGuid>f1c0840a-f740-4f46-89ae-e7e924484167</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Inicio > Bloqueo Temporal'])[1]/following::li[2]</value>
+      <webElementGuid>2b06325d-6f44-44e4-8a12-544ef7e98481</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Error Modal'])[1]/preceding::li[1]</value>
+      <webElementGuid>8c71a4a6-01b4-43de-b509-11bf603e0e3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Error Modal'])[2]/preceding::li[1]</value>
+      <webElementGuid>d02550b4-8c78-4828-9fbc-7f3725e1ca8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Reactivación Cuentas']/parent::*</value>
+      <webElementGuid>58997b1a-5a7b-4759-86c2-12de3139f4f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[2]/ul/li[2]</value>
+      <webElementGuid>0f82d4cb-49df-4575-ad65-3d4bba1ac2fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[@id = 'selectReactivacion' and (text() = 'Reactivación Cuentas' or . = 'Reactivación Cuentas')]</value>
+      <webElementGuid>78b5df73-2bc2-4a25-a8ff-3722fdcb0163</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

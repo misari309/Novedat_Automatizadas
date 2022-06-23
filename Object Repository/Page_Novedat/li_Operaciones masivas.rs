@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Operaciones masivas</name>
+   <tag></tag>
+   <elementGuidId>facd8082-9c79-4b58-9446-eaa10517f2ea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='operationMassive']/li</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#operationMassive > li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>462fd8c1-8b49-4047-8247-14a05a2b8237</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Operaciones masivas</value>
+      <webElementGuid>888b65fd-5165-46a3-a028-8544695e6299</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;operationMassive&quot;)/li[1]</value>
+      <webElementGuid>998f5143-a977-469c-9546-70bc77dbd70a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='operationMassive']/li</value>
+      <webElementGuid>d70ec0d6-da55-475e-a052-0136acf08b20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Modificación'])[1]/following::li[1]</value>
+      <webElementGuid>ed11d9ea-24e9-48fa-a415-3991d404b8f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reclamos'])[1]/following::li[2]</value>
+      <webElementGuid>19fdbda6-b740-4881-8076-126d66684c7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Procesos'])[1]/preceding::li[1]</value>
+      <webElementGuid>2499072b-2d7d-473e-9ca3-06a6fda757a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[4]/li</value>
+      <webElementGuid>f26e07fc-c840-4b8f-9674-5032e673088e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Operaciones masivas' or . = 'Operaciones masivas')]</value>
+      <webElementGuid>8c6e5163-eecc-4774-b860-a13ef8ee4257</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

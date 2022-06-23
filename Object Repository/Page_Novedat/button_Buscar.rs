@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Enviar</name>
+   <name>button_Buscar</name>
    <tag></tag>
-   <elementGuidId>0ae34e77-fa03-483d-af53-79039f359be1</elementGuidId>
+   <elementGuidId>f5503a88-b22e-4698-b92c-940ed85aafcb</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>7671d86a-8a1e-4e49-8827-4255831a73eb</webElementGuid>
+      <webElementGuid>b803a4c5-6603-4615-9288-cf4c360378a5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-primary pull-right</value>
-      <webElementGuid>f3ea4a4e-e01d-41ae-9378-51f94f5e2f2e</webElementGuid>
+      <webElementGuid>61e289f4-d857-4b57-91bd-a71f7b49e6d6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>enviar</value>
-      <webElementGuid>cc2de60c-e777-4ba3-ba0a-c7d799abdfe2</webElementGuid>
+      <webElementGuid>ef5ad11c-f113-4b49-9fcf-6b00544e7867</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,23 +46,23 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>f06dfe77-5b13-4ff2-860d-b67e7a77ae8a</webElementGuid>
+      <webElementGuid>fa4ea93a-d1c6-42e0-96d2-4457eb22f481</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Enviar</value>
-      <webElementGuid>e5190f99-3f77-4a7e-b030-2b900ae5f691</webElementGuid>
+      <value>Buscar</value>
+      <webElementGuid>e21b62af-aeb1-488a-82e8-3dc89bb7c216</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;cdk-accordion-child-1&quot;)/div[@class=&quot;mat-expansion-panel-body&quot;]/app-form-holder-search[@class=&quot;matExpansionPanelBody&quot;]/form[@class=&quot;ng-dirty ng-touched ng-valid&quot;]/div[@class=&quot;show-obligacion form-element&quot;]/div[@class=&quot;formulario-field form-element&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12 col-sm-12 col-12&quot;]/div[@class=&quot;btn-container&quot;]/button[@class=&quot;btn btn-primary pull-right&quot;]</value>
-      <webElementGuid>53b48431-68af-45fe-b24c-7c975bc275f5</webElementGuid>
+      <value>id(&quot;cdk-accordion-child-5&quot;)/div[@class=&quot;mat-expansion-panel-body&quot;]/form[@class=&quot;ng-touched ng-dirty ng-valid&quot;]/div[@class=&quot;show-obligacion form-element&quot;]/div[@class=&quot;formulario-field form-element&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12 col-sm-12 col-12&quot;]/div[@class=&quot;btn-container&quot;]/button[@class=&quot;btn btn-primary pull-right&quot;]</value>
+      <webElementGuid>1ec1618a-282f-410b-8dbf-967395c6ddc6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,70 +70,70 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@name='enviar']</value>
-      <webElementGuid>ad3d15dc-88d4-4dd5-810d-c6f64bb2057a</webElementGuid>
+      <webElementGuid>6e137f54-62d2-4512-84e7-04784411aa3a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='cdk-accordion-child-1']/div/app-form-holder-search/form/div/div/div[2]/div/div/button[4]</value>
-      <webElementGuid>cf06a498-aea5-4a71-a1da-987d21579d4b</webElementGuid>
+      <value>//div[@id='cdk-accordion-child-5']/div/form/div/div/div[5]/div/div/button</value>
+      <webElementGuid>8c593ae2-687e-4443-a93b-7d50198dab63</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Error Modal'])[2]/following::button[1]</value>
-      <webElementGuid>cc53e4d1-d7cf-4a79-b6c4-21914b0f09c1</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filtro 3'])[1]/following::button[1]</value>
+      <webElementGuid>88b0795e-b465-4a3f-bb0a-99b44e00a803</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Error Modal'])[1]/following::button[2]</value>
-      <webElementGuid>30f66afe-64ce-4a1f-9ab7-2c4538cfee82</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filtro 2'])[1]/following::button[1]</value>
+      <webElementGuid>6b476fe4-cff7-4548-8c85-fd0302366854</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/preceding::button[1]</value>
-      <webElementGuid>c7243cf2-1291-4c4f-a5f2-ddcc4e75ce7e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Error Modal Apply'])[1]/preceding::button[1]</value>
+      <webElementGuid>fc09729d-8978-4b7c-ada6-390c26b35238</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Radica Caso'])[1]/preceding::button[2]</value>
-      <webElementGuid>0874d629-1044-4b38-a101-b6aff50cefcd</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Error Modal'])[1]/preceding::button[2]</value>
+      <webElementGuid>0e726bc4-0411-4491-851a-4f97cd981eeb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Enviar']/parent::*</value>
-      <webElementGuid>8a08d3f2-9088-45c1-8265-3672e1af7197</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Buscar']/parent::*</value>
+      <webElementGuid>0e790d18-13dc-428b-af88-07ead496c728</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/button[4]</value>
-      <webElementGuid>d4f9bd0f-f030-492a-a16e-d21be22b86ee</webElementGuid>
+      <value>//div/div[5]/div/div/button</value>
+      <webElementGuid>a06cff4c-9403-4773-a65f-40c2ee4ac32a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@name = 'enviar' and @type = 'submit' and (text() = 'Enviar' or . = 'Enviar')]</value>
-      <webElementGuid>05ca3a84-294e-483a-8385-d34316e78137</webElementGuid>
+      <value>//button[@name = 'enviar' and @type = 'submit' and (text() = 'Buscar' or . = 'Buscar')]</value>
+      <webElementGuid>dd3be29e-0ab9-4934-ba8a-740b40e01895</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
