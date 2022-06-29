@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ul_MenListaAlertas y comentariosReclamosOpe_a4587b</name>
+   <tag></tag>
+   <elementGuidId>8ab45c54-b713-4d92-899c-3cf52b67da22</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>ul</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='menuP']/app-menu/nav/ul</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>ul</value>
+      <webElementGuid>1c73751f-c698-49f6-b9cf-2d540d77e6d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>MenúListaAlertas y comentariosReclamosOperaciones masivasProcesosSuscriptoresSincronizaciónResincronización de procesosMasivo por ArchivoComentariosReportesAcciones OperadorAtención ciudadano</value>
+      <webElementGuid>09c4d6a9-4eac-4bbe-9ec0-08b102778e73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menuP&quot;)/app-menu[1]/nav[1]/ul[1]</value>
+      <webElementGuid>8ec32756-9340-4653-bd9c-2c495530e22f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='menuP']/app-menu/nav/ul</value>
+      <webElementGuid>a5dfe9b1-a196-48d9-921c-5b45f09962d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul</value>
+      <webElementGuid>26ccbdad-b458-45db-8267-d8671b48d333</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//ul[(text() = 'MenúListaAlertas y comentariosReclamosOperaciones masivasProcesosSuscriptoresSincronizaciónResincronización de procesosMasivo por ArchivoComentariosReportesAcciones OperadorAtención ciudadano' or . = 'MenúListaAlertas y comentariosReclamosOperaciones masivasProcesosSuscriptoresSincronizaciónResincronización de procesosMasivo por ArchivoComentariosReportesAcciones OperadorAtención ciudadano')]</value>
+      <webElementGuid>6d2e4d39-f7ef-42d7-a88e-ccccb35731d9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

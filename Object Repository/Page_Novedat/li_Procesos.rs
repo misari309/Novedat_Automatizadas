@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Procesos</name>
+   <tag></tag>
+   <elementGuidId>0f93908a-61f3-4c5d-8ab8-08e2312e6d27</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='menuProcess']/li</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#menuProcess > li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>62d90460-36ad-45af-b708-71e24e1aa6b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Procesos</value>
+      <webElementGuid>96277fbb-3f18-426b-93bd-2f52e5dd35ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menuProcess&quot;)/li[1]</value>
+      <webElementGuid>61e4dd2a-2496-4d62-a686-f49de8f02dc1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='menuProcess']/li</value>
+      <webElementGuid>bd70caef-a2b7-47ff-86ac-6bd682852099</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Operaciones masivas'])[1]/following::li[1]</value>
+      <webElementGuid>8189a5aa-7875-48e3-89d5-bc25fc6e1c26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Modificación'])[1]/following::li[2]</value>
+      <webElementGuid>0e51a8be-b7b5-424f-afe8-2ac2d8e2a864</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Suscriptores'])[1]/preceding::li[1]</value>
+      <webElementGuid>59b77f81-bd88-4fb2-a2e4-8590c714fde4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[5]/li</value>
+      <webElementGuid>9cedb064-4a19-4771-91fd-e6090e1af662</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Procesos' or . = 'Procesos')]</value>
+      <webElementGuid>91684cfe-0e33-4df2-9cc0-e14bca5a5a52</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

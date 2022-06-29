@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Lista Comn</name>
+   <tag></tag>
+   <elementGuidId>db585745-8a0d-46e1-a98a-e2da0251aa8e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='listaComun']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#listaComun</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>6174d1c5-c151-4898-ac05-0bf3e4661744</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lista-comun liCommonList</value>
+      <webElementGuid>860b8ef7-a4f1-4666-b70f-bc00e247bea0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>listaComun</value>
+      <webElementGuid>39d732e2-3ded-4e45-b4ce-b9add3814947</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Lista Común</value>
+      <webElementGuid>e5b91975-e3cb-4bc8-8c87-b0888c119827</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;listaComun&quot;)</value>
+      <webElementGuid>63f66065-864b-4a86-a8d8-28e516b3f941</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//li[@id='listaComun']</value>
+      <webElementGuid>a7a81275-99f5-499f-b454-a9a081bef6fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Seleccionar Perfil:'])[1]/following::li[1]</value>
+      <webElementGuid>d99098b5-fd8f-4124-a8a4-a9c66bb4049a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Inicio > Bandeja de entrada'])[1]/following::li[1]</value>
+      <webElementGuid>b231f6c6-f5ce-433f-8136-a2871b44addc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mi Lista'])[1]/preceding::li[1]</value>
+      <webElementGuid>7d03abb8-52f4-480b-bbaf-69400fd2670e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Lista Común']/parent::*</value>
+      <webElementGuid>901232fa-aff6-4f9b-8e53-fee0c9f8013c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[2]/ul/li</value>
+      <webElementGuid>52684dca-4b04-49a8-bbf5-367d1fd6e666</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[@id = 'listaComun' and (text() = ' Lista Común' or . = ' Lista Común')]</value>
+      <webElementGuid>c85dc882-d4f1-40de-9405-1412d95beca9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

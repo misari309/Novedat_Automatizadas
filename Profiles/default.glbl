@@ -26,7 +26,12 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'Novedat21'</initValue>
+      <initValue>'1-5006592@dev.datacredito.com.co'</initValue>
+      <name>user</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Clave123'</initValue>
       <name>password</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>
