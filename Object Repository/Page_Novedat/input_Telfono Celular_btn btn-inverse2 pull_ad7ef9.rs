@@ -6,12 +6,12 @@
    <elementGuidId>891469be-37a1-4cfe-864b-917c99354df7</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@value='Listo']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>input.btn.btn-inverse2.pull-right.right10.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/app-root/article/app-operations-massives/section[4]/form/section/div/div/div[1]/div[4]/div/input</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>8be0a5d4-aad5-4987-b507-80b00647748d</webElementGuid>
+      <webElementGuid>46c43f97-9102-46f3-ae3e-2cf08ff381b1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-inverse2 pull-right right10 ng-star-inserted</value>
-      <webElementGuid>551a6040-1f7d-4dfe-a01e-76fc8fb61d16</webElementGuid>
+      <webElementGuid>e35094cd-eccd-4935-b1be-dab131d3e8cd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>b6fef8ba-862f-4c5e-b872-2dcc62e26383</webElementGuid>
+      <webElementGuid>6f596bea-2bca-4200-9bba-36ddf24dcc90</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>value</name>
       <type>Main</type>
       <value>Listo</value>
-      <webElementGuid>f4b9b664-ae2c-4abb-bfbd-44f20580ceae</webElementGuid>
+      <webElementGuid>6392faa7-7290-416f-a9f4-901d1be04927</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;cdk-accordion-child-2&quot;)/div[@class=&quot;mat-expansion-panel-body&quot;]/div[@class=&quot;show-obligacion3 form-element&quot;]/div[@class=&quot;formulario-field form-element&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;btn-container&quot;]/input[@class=&quot;btn btn-inverse2 pull-right right10 ng-star-inserted&quot;]</value>
-      <webElementGuid>3c054a1c-9ddb-486c-a282-cdf661e03e9d</webElementGuid>
+      <webElementGuid>af1c9bd6-78f3-4d11-8f40-2d9eb2fb535f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@value='Listo']</value>
-      <webElementGuid>ad5c074f-3da6-4b84-9a64-94dc750a4889</webElementGuid>
+      <webElementGuid>2937310d-d5db-4613-bce7-813e481dee07</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='cdk-accordion-child-2']/div/div/div/div[2]/div/input</value>
-      <webElementGuid>c29bb9ae-89aa-4196-9d8f-e10ac7f7e27f</webElementGuid>
+      <webElementGuid>bcded12a-db3c-4293-84c3-9bb3830ffbde</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/div/div/div[2]/div/input</value>
-      <webElementGuid>833fe131-830a-4cf1-b94e-e4bce19cb23f</webElementGuid>
+      <webElementGuid>d8dcae01-249c-4de5-9909-b94f45f65128</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'button']</value>
-      <webElementGuid>c998522b-f5dd-4864-9480-6d469a4c9120</webElementGuid>
+      <webElementGuid>afee93ac-68bf-4396-aaff-f41cfcfe9107</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

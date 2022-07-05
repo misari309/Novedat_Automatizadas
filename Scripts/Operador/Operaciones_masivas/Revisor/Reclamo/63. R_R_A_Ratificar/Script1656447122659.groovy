@@ -17,3 +17,344 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+TestData accounts = findTestData('Data Files/CuentasGeneral')
+personIdNumber = accounts.getValue('personIdNumber', 63)
+accountNumber = accounts.getValue('accountNumber', 63)
+int nScreenshot = 0
+String screenshot
+
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://dev-login.datacredito.com.co/login/login.htm')
+
+WebUI.maximizeWindow()
+
+WebUI.setText(findTestObject('Page_Experian LATAMB - Preview - Sign In/input_Username_username'), GlobalVariable.user)
+
+WebUI.setText(findTestObject('Page_Experian LATAMB - Preview - Sign In/input_Password_password'), GlobalVariable.password)
+
+//Screenshot ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+WebUI.waitForPageLoad(5)
+screenshot = ('C:\\Users\\camil\\Katalon Studio\\Novedat\\Responses\\63. O_Masivas\\' + nScreenshot + '.png')
+WebUI.takeScreenshot(screenshot)
+nScreenshot++
+//-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+WebUI.click(findTestObject('Page_Experian LATAMB - Preview - Sign In/input_Remember me_okta-signin-submit'))
+
+WebUI.delay(5)
+
+WebUI.executeJavaScript('window.open()', [])
+
+WebUI.switchToWindowIndex(1)
+
+WebUI.navigateToUrl('https://dev-novedat.datacredito.com.co/?entidad=900422614')
+
+//Screenshot ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+WebUI.waitForPageLoad(5)
+screenshot = ('C:\\Users\\camil\\Katalon Studio\\Novedat\\Responses\\63. O_Masivas\\' + nScreenshot + '.png')
+WebUI.takeScreenshot(screenshot)
+nScreenshot++
+//-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+WebUI.click(findTestObject('Page_Novedat/li_Men'))
+
+//Screenshot ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+WebUI.waitForPageLoad(5)
+screenshot = ('C:\\Users\\camil\\Katalon Studio\\Novedat\\Responses\\63. O_Masivas\\' + nScreenshot + '.png')
+WebUI.takeScreenshot(screenshot)
+nScreenshot++
+//-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+WebUI.click(findTestObject('Page_Novedat/div_Alertas y comentarios_col-sm-2'))
+
+//Screenshot ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+WebUI.waitForPageLoad(5)
+screenshot = ('C:\\Users\\camil\\Katalon Studio\\Novedat\\Responses\\63. O_Masivas\\' + nScreenshot + '.png')
+WebUI.takeScreenshot(screenshot)
+nScreenshot++
+//-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+WebUI.click(findTestObject('Page_Novedat/li_Formulario de consulta'))
+
+WebUI.click(findTestObject('Page_Novedat/li_Formulacin Reclamos Operador'))
+
+WebUI.setText(findTestObject('Page_Novedat/input__idNumber'), personIdNumber)
+
+WebUI.setText(findTestObject('Page_Novedat/input_Nmero de Obligacin_obligationNumber'), accountNumber)
+
+WebUI.selectOptionByValue(findTestObject('Page_Novedat/select_SeleccioneDerecho de PeticinTrmino d_6b3198'), '5', true)
+
+WebUI.click(findTestObject('Page_Novedat/button_Enviar'))
+
+WebUI.scrollToElement(findTestObject('Object Repository/Page_Novedat/div_CFE 000000111111492101 ACTIVACOOP'), 5)
+
+//Screenshot ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+WebUI.waitForPageLoad(5)
+screenshot = ('C:\\Users\\camil\\Katalon Studio\\Novedat\\Responses\\63. O_Masivas\\' + nScreenshot + '.png')
+WebUI.takeScreenshot(screenshot)
+nScreenshot++
+//-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+WebUI.click(findTestObject('Object Repository/Page_Novedat/div_CFE 000000111111492101 ACTIVACOOP'))
+
+//Screenshot ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+WebUI.waitForPageLoad(5)
+screenshot = ('C:\\Users\\camil\\Katalon Studio\\Novedat\\Responses\\63. O_Masivas\\' + nScreenshot + '.png')
+WebUI.takeScreenshot(screenshot)
+nScreenshot++
+//-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+WebUI.click(findTestObject('Page_Novedat/input__accept-alert-modal'))
+
+//Screenshot ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+WebUI.waitForPageLoad(5)
+screenshot = ('C:\\Users\\camil\\Katalon Studio\\Novedat\\Responses\\63. O_Masivas\\' + nScreenshot + '.png')
+WebUI.takeScreenshot(screenshot)
+nScreenshot++
+//-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+WebUI.scrollToElement(findTestObject('Page_Novedat/select_Seleccione ACTUALIZAR LA INFORMACIN _308cb5'), 2)
+
+//Screenshot ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+WebUI.waitForPageLoad(5)
+screenshot = ('C:\\Users\\camil\\Katalon Studio\\Novedat\\Responses\\63. O_Masivas\\' + nScreenshot + '.png')
+WebUI.takeScreenshot(screenshot)
+nScreenshot++
+//-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+WebUI.selectOptionByValue(findTestObject('Page_Novedat/select_Seleccione ACTUALIZAR LA INFORMACIN _308cb5'), '02', true)
+
+WebUI.click(findTestObject('Page_Novedat/span_No actualizacin de la informacin'))
+
+WebUI.scrollToElement(findTestObject('Page_Novedat/label_He ledo y entendido los trminos del proceso'), 5)
+
+WebUI.setText(findTestObject('Page_Novedat/textarea__momentKnowInfoForm'), 'test')
+
+WebUI.click(findTestObject('Page_Novedat/label_He ledo y entendido los trminos del proceso'))
+
+//Screenshot ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+WebUI.waitForPageLoad(5)
+screenshot = ('C:\\Users\\camil\\Katalon Studio\\Novedat\\Responses\\63. O_Masivas\\' + nScreenshot + '.png')
+WebUI.takeScreenshot(screenshot)
+nScreenshot++
+//-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+WebUI.scrollToElement(findTestObject('Object Repository/Page_Novedat/btn_editar'), 5)
+
+String value_btn_editUserEmail = WebUI.getAttribute(findTestObject('Object Repository/Page_Novedat/btn_editar'), 'value')
+
+if(value_btn_editUserEmail.equals("Listo")) {
+	
+	WebUI.setText(findTestObject('Object Repository/Page_Novedat/input_Correo Electrnico_emailDisputeform'), 'dalonso@stt.com.co')
+	
+	WebUI.setText(findTestObject('Object Repository/Page_Novedat/input_Confirmar Correo electrnico_reemailDi_160b6f'), 'dalonso@stt.com.co')
+	
+	WebUI.click(findTestObject('Object Repository/Page_Novedat/btn_editar'))
+	
+} else {
+	
+	WebUI.click(findTestObject('Object Repository/Page_Novedat/btn_editar'))
+	
+	WebUI.setText(findTestObject('Object Repository/Page_Novedat/input_Correo Electrnico_emailDisputeform'), 'dalonso@stt.com.co')
+	
+	WebUI.setText(findTestObject('Object Repository/Page_Novedat/input_Confirmar Correo electrnico_reemailDi_160b6f'), 'dalonso@stt.com.co')
+	
+	WebUI.click(findTestObject('Object Repository/Page_Novedat/btn_editar'))
+	
+}
+
+WebUI.scrollToElement(findTestObject('Page_Novedat/input_Error Modal_continuar'), 5)
+
+WebUI.click(findTestObject('Page_Novedat/label_Acepto los trminos y condiciones'))
+
+WebUI.click(findTestObject('Page_Novedat/label_Acepto recibir respuestas de este rec_83a274'))
+
+WebUI.click(findTestObject('Page_Novedat/input_Error Modal_continuar'))
+
+//Screenshot ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+WebUI.waitForPageLoad(5)
+screenshot = ('C:\\Users\\camil\\Katalon Studio\\Novedat\\Responses\\63. O_Masivas\\' + nScreenshot + '.png')
+WebUI.takeScreenshot(screenshot)
+nScreenshot++
+//-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+WebUI.click(findTestObject('Page_Novedat/input_puede consultar su historia de crdito_bdb83d'))
+
+WebUI.delay(3)
+
+//Screenshot ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+WebUI.waitForPageLoad(5)
+screenshot = ('C:\\Users\\camil\\Katalon Studio\\Novedat\\Responses\\63. O_Masivas\\' + nScreenshot + '.png')
+WebUI.takeScreenshot(screenshot)
+nScreenshot++
+//-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+WebUI.click(findTestObject('Page_Novedat/input__accept-assing-modal'))
+
+WebUI.click(findTestObject('Page_Novedat/span_Ratify'))
+
+//Screenshot ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+WebUI.waitForPageLoad(5)
+screenshot = ('C:\\Users\\camil\\Katalon Studio\\Novedat\\Responses\\63. O_Masivas\\' + nScreenshot + '.png')
+WebUI.takeScreenshot(screenshot)
+nScreenshot++
+//-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+WebUI.scrollToElement(findTestObject('Page_Novedat/input_Error Modal_continuar'), 5)
+
+WebUI.click(findTestObject('Page_Novedat/input_Error Modal_continuar'))
+
+WebUI.delay(3)
+
+//Screenshot ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+WebUI.waitForPageLoad(5)
+screenshot = ('C:\\Users\\camil\\Katalon Studio\\Novedat\\Responses\\63. O_Masivas\\' + nScreenshot + '.png')
+WebUI.takeScreenshot(screenshot)
+nScreenshot++
+//-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+WebUI.click(findTestObject('Page_Novedat/input_Ratify_accept-ratify'))
+
+//Screenshot ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+WebUI.waitForPageLoad(5)
+screenshot = ('C:\\Users\\camil\\Katalon Studio\\Novedat\\Responses\\63. O_Masivas\\' + nScreenshot + '.png')
+WebUI.takeScreenshot(screenshot)
+nScreenshot++
+//-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+WebUI.scrollToElement(findTestObject('Page_Novedat/input__continuar'), 5)
+
+WebUI.selectOptionByValue(findTestObject('Page_Novedat/select_Select  35-INFORMACION RATIFICADA'), '35', true)
+
+WebUI.setText(findTestObject('Page_Novedat/textarea__observationCitizen'), 'test')
+
+WebUI.click(findTestObject('Page_Novedat/input__continuar'))
+
+//Screenshot ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+WebUI.waitForPageLoad(5)
+screenshot = ('C:\\Users\\camil\\Katalon Studio\\Novedat\\Responses\\63. O_Masivas\\' + nScreenshot + '.png')
+WebUI.takeScreenshot(screenshot)
+nScreenshot++
+//-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+WebUI.click(findTestObject('Page_Novedat/input_Vector Comportamiento_goMyList'))
+
+WebUI.selectOptionByValue(findTestObject('Page_Novedat/select_ANALISTAREVISOR'), 'REVIEWER', true)
+
+//Screenshot ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+WebUI.waitForPageLoad(5)
+screenshot = ('C:\\Users\\camil\\Katalon Studio\\Novedat\\Responses\\63. O_Masivas\\' + nScreenshot + '.png')
+WebUI.takeScreenshot(screenshot)
+nScreenshot++
+//-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+WebUI.click(findTestObject('Page_Novedat/li_Men'))
+
+//Screenshot ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+WebUI.waitForPageLoad(5)
+screenshot = ('C:\\Users\\camil\\Katalon Studio\\Novedat\\Responses\\63. O_Masivas\\' + nScreenshot + '.png')
+WebUI.takeScreenshot(screenshot)
+nScreenshot++
+//-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+WebUI.click(findTestObject('Page_Novedat/li_Operaciones masivas'))
+
+WebUI.selectOptionByValue(findTestObject('Page_Novedat/select_SeleccioneMODIFICACINRECLAMO'), '2', true)
+
+WebUI.selectOptionByValue(findTestObject('Page_Novedat/select_SeleccioneDEVOLVERAPROBARDESASIGNARR_d86014'), '5', true)
+
+WebUI.selectOptionByValue(findTestObject('Page_Novedat/select_SeleccioneCorregido por Actualizacin_bd1ea0'), '5', true)
+
+WebUI.selectOptionByValue(findTestObject('Page_Novedat/select_SeleccioneReclamoTipo de DocumentoTi_cb090e'), '1', true)
+
+WebUI.selectOptionByValue(findTestObject('Page_Novedat/select_SeleccionePrrrogaRecurso de Reposici_6894ea'), '9', true)
+
+WebUI.setText(findTestObject('Page_Novedat/input_Filtro 3_filter3Form'), accountNumber)
+
+WebUI.click(findTestObject('Page_Novedat/button_Buscar'))
+
+//Screenshot ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+WebUI.waitForPageLoad(5)
+screenshot = ('C:\\Users\\camil\\Katalon Studio\\Novedat\\Responses\\63. O_Masivas\\' + nScreenshot + '.png')
+WebUI.takeScreenshot(screenshot)
+nScreenshot++
+//-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+WebUI.click(findTestObject('Page_Novedat/input_Estado Proceso_checkboxListCom'))
+
+WebUI.setText(findTestObject('Page_Novedat/input__emailForm'), 'dalonso@stt.com.co')
+
+WebUI.selectOptionByValue(findTestObject('Page_Novedat/select_SeleccioneInformacin cambio en actua_ce7fb1'), '7', true)
+
+WebUI.selectOptionByValue(findTestObject('Page_Novedat/select_Seleccione  1-Investigacin interna d_6ab5eb'), '1', true)
+
+//Screenshot ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+WebUI.waitForPageLoad(5)
+screenshot = ('C:\\Users\\camil\\Katalon Studio\\Novedat\\Responses\\63. O_Masivas\\' + nScreenshot + '.png')
+WebUI.takeScreenshot(screenshot)
+nScreenshot++
+//-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+WebUI.click(findTestObject('Page_Novedat/input_Telfono Celular_btn btn-inverse2 pull_ad7ef9'))
+
+WebUI.delay(3)
+
+//Screenshot ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+WebUI.waitForPageLoad(5)
+screenshot = ('C:\\Users\\camil\\Katalon Studio\\Novedat\\Responses\\63. O_Masivas\\' + nScreenshot + '.png')
+WebUI.takeScreenshot(screenshot)
+nScreenshot++
+//-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+WebUI.click(findTestObject('Page_Novedat/input__accept-alert-confirm-modal-action'))
+
+//Screenshot ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+WebUI.waitForPageLoad(5)
+screenshot = ('C:\\Users\\camil\\Katalon Studio\\Novedat\\Responses\\63. O_Masivas\\' + nScreenshot + '.png')
+WebUI.takeScreenshot(screenshot)
+nScreenshot++
+//-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+WebUI.click(findTestObject('Page_Novedat/input__accept-alert-confirm-modal'))
+
+//Screenshot ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+WebUI.waitForPageLoad(5)
+screenshot = ('C:\\Users\\camil\\Katalon Studio\\Novedat\\Responses\\63. O_Masivas\\' + nScreenshot + '.png')
+WebUI.takeScreenshot(screenshot)
+nScreenshot++
+//-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+WebUI.click(findTestObject('Page_Novedat/input__accept-modal-success'))
+
+WebUI.click(findTestObject('Page_Novedat/li_Lista'))
+
+WebUI.selectOptionByValue(findTestObject('Page_Novedat/select_ANALISTAREVISOR'), 'ANALYST', true)
+
+WebUI.click(findTestObject('Page_Novedat/li_Men'))
+
+WebUI.click(findTestObject('Page_Novedat/div_Reclamos'))
+
+WebUI.click(findTestObject('Page_Novedat/label_Formulario de consulta'))
+
+WebUI.click(findTestObject('Page_Novedat/li_Formulacin Reclamos Operador'))
+
+WebUI.setText(findTestObject('Page_Novedat/input_Nmero de Obligacin_obligationNumber'), accountNumber)
+
+WebUI.setText(findTestObject('Page_Novedat/input__idNumber'), personIdNumber)
+
+WebUI.selectOptionByValue(findTestObject('Page_Novedat/select_SeleccioneDerecho de PeticinTrmino d_6b3198'), '5', true)
+
+WebUI.click(findTestObject('Page_Novedat/button_Enviar'))
+
+WebUI.scrollToElement(findTestObject('Object Repository/Page_Novedat/div_TIPO  NMERO DE OBLIGACIN  ENTIDAD  F.PE_832c11'), 5)
+
+WebUI.click(findTestObject('Object Repository/Page_Novedat/div_TIPO  NMERO DE OBLIGACIN  ENTIDAD  F.PE_832c11'))
+
+//Screenshot ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+WebUI.waitForPageLoad(5)
+screenshot = ('C:\\Users\\camil\\Katalon Studio\\Novedat\\Responses\\63. O_Masivas\\' + nScreenshot + '.png')
+WebUI.takeScreenshot(screenshot)
+nScreenshot++
+//-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+

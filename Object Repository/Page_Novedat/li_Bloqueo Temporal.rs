@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Bloqueo Temporal</name>
+   <tag></tag>
+   <elementGuidId>ab0befbd-f9df-40a6-afd8-a8104bd9df2d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#selectBloqueo</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='selectBloqueo']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>50b10ac3-7c12-4182-b773-71fea9126bbd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>active ng-star-inserted</value>
+      <webElementGuid>ad27a661-6b8e-48f0-9f9f-19a90f57f3d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>selectBloqueo</value>
+      <webElementGuid>61e05d3f-cc78-4410-a451-ec59754a3e91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bloqueo Temporal</value>
+      <webElementGuid>e9eff7f1-2cd0-4056-91ff-e6014a2b1090</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;selectBloqueo&quot;)</value>
+      <webElementGuid>1639eff8-e94d-4a2f-8145-c08b8396e8a5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//li[@id='selectBloqueo']</value>
+      <webElementGuid>51454d43-4373-45ee-b4bb-ea0c75639fc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Inicio > Bloqueo Temporal'])[1]/following::li[1]</value>
+      <webElementGuid>0f38af2d-e92f-4273-a504-0de8da9df2ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Acciones Operador'])[2]/following::li[1]</value>
+      <webElementGuid>8694fc44-47cb-4a68-9aa3-def21e13dcca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reactivación Cuentas'])[1]/preceding::li[1]</value>
+      <webElementGuid>5f82261a-e199-45b8-8f91-ec11d91043e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Error Modal'])[1]/preceding::li[2]</value>
+      <webElementGuid>95597be3-3cd3-4cc7-88ca-7641ffe4e2df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Bloqueo Temporal']/parent::*</value>
+      <webElementGuid>4bba0296-6f80-473b-9737-e7505b3f1f40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[2]/ul/li</value>
+      <webElementGuid>28b9298c-65d5-41a0-8780-ea21ddd49b24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[@id = 'selectBloqueo' and (text() = 'Bloqueo Temporal' or . = 'Bloqueo Temporal')]</value>
+      <webElementGuid>85b27805-c8af-49cf-a296-8cc4a9c302a7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

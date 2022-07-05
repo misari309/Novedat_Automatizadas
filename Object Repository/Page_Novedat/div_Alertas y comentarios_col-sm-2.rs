@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Alertas y comentarios_col-sm-2</name>
+   <tag></tag>
+   <elementGuidId>6d366d90-8793-405a-a45f-362e72e03a06</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-sm-2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='disputeMenu']/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>fcf8b39f-7a69-43a6-ada3-881b108a80e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-sm-2</value>
+      <webElementGuid>0f3d13fb-5e60-43dd-a46f-b2144a0463c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;disputeMenu&quot;)/div[@class=&quot;row row-dispute&quot;]/div[@class=&quot;col-sm-2&quot;]</value>
+      <webElementGuid>984601ac-7c4f-438f-80fe-30ec861299a0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='disputeMenu']/div/div</value>
+      <webElementGuid>d17423d8-3bdc-4732-9769-63d853186a83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alertas y comentarios'])[1]/following::div[2]</value>
+      <webElementGuid>148bf164-7b27-48e6-9199-8d00fc40ea57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lista'])[1]/following::div[2]</value>
+      <webElementGuid>267af3e2-16e5-4bc0-b664-7fba76635c36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reclamos'])[1]/preceding::div[1]</value>
+      <webElementGuid>6958fbb9-de43-44e3-b8c5-f85c88144795</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reclamos'])[2]/preceding::div[4]</value>
+      <webElementGuid>20656368-2e0d-4ea6-ab58-3a561c7bf276</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div</value>
+      <webElementGuid>2636dd12-2180-410b-95a8-453cdd3e26b8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
