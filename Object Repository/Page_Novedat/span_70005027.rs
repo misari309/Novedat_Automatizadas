@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_70005027</name>
+   <tag></tag>
+   <elementGuidId>67d7503d-c44d-48b8-9d33-0c250a40ee36</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[@id='1111']/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.referencia.ng-star-inserted > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2d231cb0-927f-4777-97dd-9a891ad5f45c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>70005027</value>
+      <webElementGuid>3f82f5eb-b7f3-4ee3-ab67-67547ddc9e90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/article[@class=&quot;main-content&quot;]/app-get-lists[@class=&quot;ng-star-inserted&quot;]/section[@class=&quot;tbl-container typeLetterBody&quot;]/div[@class=&quot;tbl-info&quot;]/mat-card[@class=&quot;mat-card&quot;]/div[@class=&quot;tbl-structure&quot;]/table[@class=&quot;col-md-12 table2 table-striped table-condensed cf&quot;]/tbody[1]/tr[@class=&quot;info-list-table ng-star-inserted&quot;]/td[@id=&quot;1111&quot;]/div[@class=&quot;referencia ng-star-inserted&quot;]/span[1]</value>
+      <webElementGuid>61216ff2-299f-4fc2-a1e5-aa75af61783b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//td[@id='1111']/div/span</value>
+      <webElementGuid>9e6b1a8a-b502-45f2-bd88-38848982b567</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PR/RR'])[1]/following::span[1]</value>
+      <webElementGuid>480f56e3-c5d1-4e9b-a58d-74887497375c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Estado Proceso'])[1]/following::span[1]</value>
+      <webElementGuid>a344db7a-0f64-47b5-99b4-bbab820da2d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CC'])[1]/preceding::span[1]</value>
+      <webElementGuid>23cc8fc2-6bf3-4858-b7ef-c0a3f91dc11f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RODRIGUEZ AGUILLON LUCILA'])[1]/preceding::span[1]</value>
+      <webElementGuid>d889a4fd-d9c8-408c-ac49-bc3788721222</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='70005027']/parent::*</value>
+      <webElementGuid>9ccf7524-d1dd-417c-b070-025c695bc8b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/div/span</value>
+      <webElementGuid>a978f270-ed3a-4fbc-874f-c3636af589f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '70005027' or . = '70005027')]</value>
+      <webElementGuid>f2ab69b9-f611-4a95-b2dc-24d7bf92ac37</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

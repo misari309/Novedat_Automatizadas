@@ -79,9 +79,9 @@ WebUI.click(findTestObject('Page_Novedat/li_Formulario de consulta'))
 
 WebUI.click(findTestObject('Page_Novedat/li_Formulacin Reclamos Operador'))
 
-WebUI.setText(findTestObject('Page_Novedat/input__idNumber'), '29856242')
+WebUI.setText(findTestObject('Page_Novedat/input__idNumber'), personIdNumber)
 
-WebUI.setText(findTestObject('Page_Novedat/input_Nmero de Obligacin_obligationNumber'), '000000111165051157')
+WebUI.setText(findTestObject('Page_Novedat/input_Nmero de Obligacin_obligationNumber'), accountNumber)
 
 WebUI.click(findTestObject('Object Repository/Page_Novedat/div_JustificacinSeleccioneDerecho de Petici_3b31c5'))
 

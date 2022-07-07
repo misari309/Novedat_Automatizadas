@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_70005021</name>
+   <tag></tag>
+   <elementGuidId>c57fe7e9-5706-4d68-b86b-ed723e03c640</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.referencia.ng-star-inserted > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[@id='1111']/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e3c4608c-58dc-47e4-81e1-a3578c229548</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>70005021</value>
+      <webElementGuid>fc5749e6-0153-45ed-9c71-496ffa12cd06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/article[@class=&quot;main-content&quot;]/app-get-lists[@class=&quot;ng-star-inserted&quot;]/section[@class=&quot;tbl-container typeLetterBody&quot;]/div[@class=&quot;tbl-info&quot;]/mat-card[@class=&quot;mat-card&quot;]/div[@class=&quot;tbl-structure&quot;]/table[@class=&quot;col-md-12 table2 table-striped table-condensed cf&quot;]/tbody[1]/tr[@class=&quot;info-list-table ng-star-inserted&quot;]/td[@id=&quot;1111&quot;]/div[@class=&quot;referencia ng-star-inserted&quot;]/span[1]</value>
+      <webElementGuid>34fa447c-bcec-414d-9628-283bc8d77ab6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//td[@id='1111']/div/span</value>
+      <webElementGuid>3417ee50-93f5-4373-9673-0f24b5bd02b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PR/RR'])[1]/following::span[1]</value>
+      <webElementGuid>ace3d518-a4a5-4311-8116-821b0f46a0f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Estado Proceso'])[1]/following::span[1]</value>
+      <webElementGuid>f29e40e3-ebdb-4654-b089-6513748f9b12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CC'])[1]/preceding::span[1]</value>
+      <webElementGuid>a9dcc11a-4093-473e-b6e5-56b8e0f86765</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LOZANO TAPIERO MILDRED MARCELA'])[1]/preceding::span[1]</value>
+      <webElementGuid>4c4c2364-016f-4838-b2ab-9b115c642497</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='70005021']/parent::*</value>
+      <webElementGuid>97434066-4f64-4208-888b-eba79f811336</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/div/span</value>
+      <webElementGuid>873538ac-8bbe-4d65-b096-cf9b3976f72c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '70005021' or . = '70005021')]</value>
+      <webElementGuid>3a459b4c-18a8-4342-bca0-f9a8a1864cd7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
