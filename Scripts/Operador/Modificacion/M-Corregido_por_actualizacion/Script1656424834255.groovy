@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 int nScreenshot = 0
 String screenshot
-TestData accounts = findTestData('Data Files/Accounts_modificacion')
+TestData accounts = findTestData('Data Files/CuentasGeneral')
 
 for (int i = 1; i <= 9; i++) {
 	

@@ -23,9 +23,9 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://dev-login.datacredito.com.co/login/login.htm')
 
-WebUI.setText(findTestObject('Page_Experian LATAMB - Preview - Sign In/input_Username_username'), '1-80168185@dev.datacredito.com.co')
+WebUI.setText(findTestObject('Page_Experian LATAMB - Preview - Sign In/input_Username_username'), GlobalVariable.user_operador)
 
-WebUI.setEncryptedText(findTestObject('Page_Experian LATAMB - Preview - Sign In/input_Password_password'), 'OzQGslQmBm+Et1xdB1NeKw==')
+WebUI.setEncryptedText(findTestObject('Page_Experian LATAMB - Preview - Sign In/input_Password_password'), GlobalVariable.password_operador)
 
 WebUI.click(findTestObject('Page_Experian LATAMB - Preview - Sign In/input_Remember me_okta-signin-submit'))
 
@@ -35,9 +35,9 @@ WebUI.switchToWindowIndex(1)
 
 WebUI.delay(5)
 
-WebUI.navigateToUrl('https://dev-novedat.datacredito.com.co/?entidad=900422614')
+WebUI.navigateToUrl(GlobalVariable.url_operador)
 
-for(int i=16;i<=accounts.getRowNumbers();i++) {
+for(int i=1;i<=accounts.getRowNumbers();i++) {
 	
 	personIdNumber = accounts.getValue('personIdNumber', i)
 	accountNumber = accounts.getValue('accountNumber', i)

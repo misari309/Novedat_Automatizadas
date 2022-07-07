@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Remember me_o-form-button-bar</name>
+   <tag></tag>
+   <elementGuidId>882b3b3a-fb63-4b2c-99a7-8c656cea968e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='form19']/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.o-form-button-bar</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5d28dbf7-1fbd-4467-81bd-2a8516361f71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>o-form-button-bar</value>
+      <webElementGuid>e286b7f1-e3cb-49f1-9b4d-1a3b971d35fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form19&quot;)/div[@class=&quot;o-form-button-bar&quot;]</value>
+      <webElementGuid>df8c657d-f2bf-4867-a6c7-f7642418d119</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form19']/div[2]</value>
+      <webElementGuid>124ccd41-b5a5-4b58-8128-c39e50e1b43a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remember me'])[1]/following::div[1]</value>
+      <webElementGuid>37b6430f-26b8-468a-b7ef-094e87db0a70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Help'])[1]/preceding::div[1]</value>
+      <webElementGuid>d304c5a0-10fe-4383-9308-00a8255f3983</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Okta'])[1]/preceding::div[2]</value>
+      <webElementGuid>1830f99c-190d-4977-a5ca-118eebace723</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[2]</value>
+      <webElementGuid>e3f30b9c-cd3a-45a2-b4d4-c51e56154c4c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

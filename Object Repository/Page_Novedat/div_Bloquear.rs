@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Bloquear</name>
+   <tag></tag>
+   <elementGuidId>0d4a2c8e-3bbf-4889-94ed-e4abde5fde86</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Ratify'])[1]/following::div[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.form-check.eliminar-clr.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>33016c2b-44a6-48da-81ca-43ea805db10f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-check eliminar-clr ng-star-inserted</value>
+      <webElementGuid>024b82ce-c95b-4921-a431-e9440e1cf54f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bloquear</value>
+      <webElementGuid>b6dc5fdf-fb39-4bc9-9b81-633138ded7c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/article[@class=&quot;main-content&quot;]/app-redicar-detail-holder-page[@class=&quot;ng-star-inserted&quot;]/section[@class=&quot;select-action typeLetterBody ng-star-inserted&quot;]/div[@class=&quot;page-card&quot;]/div[@class=&quot;selecion-group&quot;]/div[@class=&quot;radio-container&quot;]/div[@class=&quot;form-check eliminar-clr ng-star-inserted&quot;]</value>
+      <webElementGuid>31ecd18a-5765-43de-bff9-52ae14482ded</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ratify'])[1]/following::div[1]</value>
+      <webElementGuid>d052b294-a14e-48b1-bbee-e1ae8fb681c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Modify'])[1]/following::div[2]</value>
+      <webElementGuid>68a07229-b066-4723-8d01-3409674b5b5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Corregido por Actualización'])[1]/preceding::div[1]</value>
+      <webElementGuid>c36b9c51-b89a-4b04-a28a-5c45a0a42a39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[3]</value>
+      <webElementGuid>0531c712-febf-4e10-8ca1-49686eed2ce2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Bloquear' or . = 'Bloquear')]</value>
+      <webElementGuid>e0cdc5e1-7e7f-4b7e-8e42-1c6e4dc74571</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
