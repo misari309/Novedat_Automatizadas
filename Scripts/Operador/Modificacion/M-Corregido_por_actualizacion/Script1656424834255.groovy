@@ -35,9 +35,9 @@ for (int i = 1; i <= 9; i++) {
 		
 		WebUI.navigateToUrl('https://dev-login.datacredito.com.co/login/login.htm')
 	
-		WebUI.setText(findTestObject('Object Repository/Page_Experian LATAMB - Preview - Sign In/input_Username_username'), GlobalVariable.user)
+		WebUI.setText(findTestObject('Object Repository/Page_Experian LATAMB - Preview - Sign In/input_Username_username'), GlobalVariable.user_operador)
 	
-		WebUI.setEncryptedText(findTestObject('Object Repository/Page_Experian LATAMB - Preview - Sign In/input_Password_password'), GlobalVariable.password)
+		WebUI.setText(findTestObject('Object Repository/Page_Experian LATAMB - Preview - Sign In/input_Password_password'), GlobalVariable.password_operador)
 	
 		WebUI.maximizeWindow()
 	
@@ -55,7 +55,7 @@ for (int i = 1; i <= 9; i++) {
 	
 		WebUI.switchToWindowIndex(1)
 	
-		WebUI.navigateToUrl('https://dev-novedat.datacredito.com.co/?entidad=900422614')
+		WebUI.navigateToUrl(GlobalVariable.url_operador)
 	
 		//Screenshot ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 		screenshot = ((('C:\\Users\\camil\\Katalon Studio\\Novedat\\Responses\\' + cartera + '\\Modificacion\\Corregido_por_actualizacion\\') + nScreenshot) + '.png')

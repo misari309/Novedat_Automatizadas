@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>app-assignment_Asignacin de ReclamoInicio  _9775c5</name>
+   <tag></tag>
+   <elementGuidId>9631ef93-1d36-4f5e-aeca-ed6f50ca3220</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='EXPERIAN COLOMBIA S.A.'])[1]/following::app-assignment[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>app-assignment.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>app-assignment</value>
+      <webElementGuid>00a41805-2109-4dca-b54c-0133f3226249</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-star-inserted</value>
+      <webElementGuid>6303ce1f-6b36-4635-905b-4ee84d6919fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Asignación de ReclamoInicio > Lista Común >  70005034 CCS 000000116118277170 CREDITOS FINANPR ErrorAssingErrorLoadInformación de la CuentaNombres y Apellidos del TitularNOVOA DE VARGAS MARIA LIGIATipo de IdentificaciónCédula de Ciudadanía y NUIPNúmero de Identificación29999502Nombre del SuscriptorCREDITOS FINANPRNúmero de Obligación000000116118277170Tipo de CarteraCCSCódigo del Suscriptor200059RegistroNovedadMora de 30 dias Fecha Novedad2020-05-31Nombre del SuscriptorCREDITOS FINANPRFecha Estado Cuenta2020-05-31Fecha de Apertura2019-09-27Fecha Vencimiento2020-07-27Garante/Tipo de DeudorPrincipalValor en miles de PesosCupo o Valor Inicial5127Saldo en Mora416Cuotas Canceladas7Periodicidad de PagoMENSUALSaldo Actual782Valor Cuota210Total Cuotas11Forma de PagoACTIVA O VIGENTEVector comportamiento HC[NN-NNNNN----][------------][------------][-----------]Al momento de conocer la información se manifiesta que:testTipo de ReclamoACTUALIZAR LA INFORMACIÓNDetalleNo actualización de la informaciónNúmero de Reclamo EntidadNo ingresadoLeyenda del ReclamoReclamo en trámite×AsignarSe le va a asignar este reclamo. Está seguro de asignar la tarea?×Mensaje del sistema, por favor intente nuevamente o contacte al administrador×Mensaje del sistema, por favor retorne a la lista común y seleccione nuevamente o contacte al administrador</value>
+      <webElementGuid>8ce3be98-264f-419c-8482-f896ab53ae8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/article[@class=&quot;main-content&quot;]/app-assignment[@class=&quot;ng-star-inserted&quot;]</value>
+      <webElementGuid>3e3a84d8-22bd-4f4d-b55d-1c51dd9ce261</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EXPERIAN COLOMBIA S.A.'])[1]/following::app-assignment[1]</value>
+      <webElementGuid>425bad7a-ec68-43f1-a579-3ac7ab8ccaae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(Analista)'])[1]/following::app-assignment[1]</value>
+      <webElementGuid>a73f1b79-8e82-4a16-9234-116f95a84696</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-assignment</value>
+      <webElementGuid>ab084ce4-10b6-4188-a1a6-ccad96ef8c57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//app-assignment[(text() = 'Asignación de ReclamoInicio > Lista Común >  70005034 CCS 000000116118277170 CREDITOS FINANPR ErrorAssingErrorLoadInformación de la CuentaNombres y Apellidos del TitularNOVOA DE VARGAS MARIA LIGIATipo de IdentificaciónCédula de Ciudadanía y NUIPNúmero de Identificación29999502Nombre del SuscriptorCREDITOS FINANPRNúmero de Obligación000000116118277170Tipo de CarteraCCSCódigo del Suscriptor200059RegistroNovedadMora de 30 dias Fecha Novedad2020-05-31Nombre del SuscriptorCREDITOS FINANPRFecha Estado Cuenta2020-05-31Fecha de Apertura2019-09-27Fecha Vencimiento2020-07-27Garante/Tipo de DeudorPrincipalValor en miles de PesosCupo o Valor Inicial5127Saldo en Mora416Cuotas Canceladas7Periodicidad de PagoMENSUALSaldo Actual782Valor Cuota210Total Cuotas11Forma de PagoACTIVA O VIGENTEVector comportamiento HC[NN-NNNNN----][------------][------------][-----------]Al momento de conocer la información se manifiesta que:testTipo de ReclamoACTUALIZAR LA INFORMACIÓNDetalleNo actualización de la informaciónNúmero de Reclamo EntidadNo ingresadoLeyenda del ReclamoReclamo en trámite×AsignarSe le va a asignar este reclamo. Está seguro de asignar la tarea?×Mensaje del sistema, por favor intente nuevamente o contacte al administrador×Mensaje del sistema, por favor retorne a la lista común y seleccione nuevamente o contacte al administrador' or . = 'Asignación de ReclamoInicio > Lista Común >  70005034 CCS 000000116118277170 CREDITOS FINANPR ErrorAssingErrorLoadInformación de la CuentaNombres y Apellidos del TitularNOVOA DE VARGAS MARIA LIGIATipo de IdentificaciónCédula de Ciudadanía y NUIPNúmero de Identificación29999502Nombre del SuscriptorCREDITOS FINANPRNúmero de Obligación000000116118277170Tipo de CarteraCCSCódigo del Suscriptor200059RegistroNovedadMora de 30 dias Fecha Novedad2020-05-31Nombre del SuscriptorCREDITOS FINANPRFecha Estado Cuenta2020-05-31Fecha de Apertura2019-09-27Fecha Vencimiento2020-07-27Garante/Tipo de DeudorPrincipalValor en miles de PesosCupo o Valor Inicial5127Saldo en Mora416Cuotas Canceladas7Periodicidad de PagoMENSUALSaldo Actual782Valor Cuota210Total Cuotas11Forma de PagoACTIVA O VIGENTEVector comportamiento HC[NN-NNNNN----][------------][------------][-----------]Al momento de conocer la información se manifiesta que:testTipo de ReclamoACTUALIZAR LA INFORMACIÓNDetalleNo actualización de la informaciónNúmero de Reclamo EntidadNo ingresadoLeyenda del ReclamoReclamo en trámite×AsignarSe le va a asignar este reclamo. Está seguro de asignar la tarea?×Mensaje del sistema, por favor intente nuevamente o contacte al administrador×Mensaje del sistema, por favor retorne a la lista común y seleccione nuevamente o contacte al administrador')]</value>
+      <webElementGuid>80e0f555-06b0-4464-84be-7f487f460b12</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

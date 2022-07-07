@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_CCF 000000111468986143 BANCOLOMBIA SUFI_9102fe</name>
+   <tag></tag>
+   <elementGuidId>9ea1371b-452b-43f9-88a4-e14da35b03aa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='bodyHtml']/div/section/div/div[2]/div/app-obligations-holder-list/div/div/div[2]/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-2.text-right</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>24bafae7-7582-479e-9f75-0652b8482efc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-2 text-right</value>
+      <webElementGuid>2a60b3ef-af36-435c-a02e-27a61e55f844</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bodyHtml&quot;)/div[@class=&quot;ng-star-inserted&quot;]/section[@class=&quot;obligacion-status typeLetterBody&quot;]/div[@class=&quot;page-card&quot;]/div[@class=&quot;obligacion-result ng-star-inserted&quot;]/div[@class=&quot;row&quot;]/app-obligations-holder-list[@class=&quot;appObligList ng-star-inserted&quot;]/div[@class=&quot;col-sm-12 col-12 typeLetterBody ng-star-inserted&quot;]/div[@class=&quot;row main-box ng-star-inserted&quot;]/div[@class=&quot;col-10 box2 sin-bold&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-2 text-right&quot;]</value>
+      <webElementGuid>5043848f-e7b7-4ba2-9a95-a32ae64432b3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='bodyHtml']/div/section/div/div[2]/div/app-obligations-holder-list/div/div/div[2]/div/div[2]</value>
+      <webElementGuid>d91b6860-4a7e-41e4-9c4a-40cc1b5a7ce2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CCF 000000111468986143 BANCOLOMBIA SUFI'])[1]/following::div[1]</value>
+      <webElementGuid>0cbc389d-ee6e-4348-9be9-5fe7f5a65853</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='R'])[1]/following::div[4]</value>
+      <webElementGuid>46fe8adb-c239-437d-abb7-3f5a635d8340</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/preceding::div[4]</value>
+      <webElementGuid>242cce42-b92d-41a5-b2b1-5d1727dc219c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Radica Caso'])[1]/preceding::div[4]</value>
+      <webElementGuid>39a07788-bbdb-411f-a184-a1479919e6ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-obligations-holder-list/div/div/div[2]/div/div[2]</value>
+      <webElementGuid>1e97cabc-d19d-4768-b5cb-94bf0cd1527a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

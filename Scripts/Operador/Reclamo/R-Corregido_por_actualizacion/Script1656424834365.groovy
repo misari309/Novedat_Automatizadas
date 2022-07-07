@@ -21,9 +21,9 @@ int nScreenshot = 0
 
 String screenshot
 
-TestData accounts = findTestData('Data Files/Accounts_reclamos')
+TestData accounts = findTestData('Data Files/CuentasGeneral')
 
-for (int i = 1; i <= 9 ; i++) {
+for (int i = 28; i <= 36 ; i++) {
 	
     nScreenshot = 0
     String personIdNumber = accounts.getValue('personIdNumber', i)
@@ -37,9 +37,9 @@ for (int i = 1; i <= 9 ; i++) {
 		
 		WebUI.navigateToUrl('https://dev-login.datacredito.com.co/login/login.htm')
 		
-		WebUI.setText(findTestObject('Object Repository/Page_Experian LATAMB - Preview - Sign In/input_Username_username (3)'), GlobalVariable.user)
+		WebUI.setText(findTestObject('Object Repository/Page_Experian LATAMB - Preview - Sign In/input_Username_username (3)'), GlobalVariable.user_operador)
 		
-		WebUI.setEncryptedText(findTestObject('Object Repository/Page_Experian LATAMB - Preview - Sign In/input_Password_password (3)'), GlobalVariable.password)
+		WebUI.setText(findTestObject('Object Repository/Page_Experian LATAMB - Preview - Sign In/input_Password_password (3)'), GlobalVariable.password_operador)
 		
 		WebUI.maximizeWindow()
 		
@@ -55,7 +55,7 @@ for (int i = 1; i <= 9 ; i++) {
 		
 		WebUI.switchToWindowIndex(1)
 		
-		WebUI.navigateToUrl('https://dev-novedat.datacredito.com.co/?entidad=900422614')
+		WebUI.navigateToUrl(GlobalVariable.url_operador)
 		
 		WebUI.click(findTestObject('Object Repository/Page_Novedat/li_Men (3)'))
 		

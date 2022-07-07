@@ -27,11 +27,31 @@
    <GlobalVariableEntity>
       <description></description>
       <initValue>'1-5006592@dev.datacredito.com.co'</initValue>
-      <name>user</name>
+      <name>user_operador</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
       <initValue>'Clave123'</initValue>
-      <name>password</name>
+      <name>password_operador</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://dev-novedat.datacredito.com.co/?entidad=900422614'</initValue>
+      <name>url_operador</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'1-5694922@dev.datacredito.com.co'</initValue>
+      <name>user_entidad</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Clave12345'</initValue>
+      <name>password_entidad</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://dev-novedat.datacredito.com.co/?entidad=860034594'</initValue>
+      <name>url_entidad</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>
